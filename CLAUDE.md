@@ -78,6 +78,10 @@ Pick an organizational style for the vault via `bash bin/setup-mode.sh`. Four mo
 
 After staging changes for a non-trivial workstream but BEFORE running `git commit`, dispatch the `verifier` agent (`agents/verifier.md`). It reads `git diff --cached`, applies the /best-practices six-cut + agent kernel, and returns findings in four tiers (BLOCKER / HIGH / MEDIUM / LOW) with file:line citations. The agent has read-only tools (Read, Grep, Glob, Bash) — it can inspect but never modify, so its output is purely advisory. This closes the loop the v1.7 audit revealed: code went worker → commit with no separate verifier pass, which is how BLOCKER B1 (data-egress consent gap) slipped through. See `docs/audits/v1.7.0-audit-2026-05-17.md` §10 for the retrospective.
 
+## Git Workflow
+
+After completing any task that modifies vault files (ingest, canvas update, wiki edit, etc.), always run `git add` and `git commit` before ending the session. Do not wait to be asked.
+
 ## MCP (Optional)
 
 If you configured the MCP server, Claude can read and write vault notes directly.

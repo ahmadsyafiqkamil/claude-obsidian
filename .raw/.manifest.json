@@ -51,6 +51,103 @@
       "ingested_at": "2026-06-29",
       "pages_created": [],
       "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+    },
+    ".raw/clippings/absensi-sistem-kehadiran.md": {
+      "hash": "b034c73c05871e07cad9fb4b36f5254e",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/absensi-sistem-kehadiran.md",
+        "wiki/concepts/Django DRF Backend Pattern.md",
+        "wiki/concepts/NextAuth JWT Bridge.md",
+        "wiki/concepts/Docker Compose Multi-Service.md",
+        "wiki/concepts/Export Pipeline DOCX PDF.md",
+        "wiki/concepts/Indonesian Government HR System.md"
+      ],
+      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md", "wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/entities/_index.md", "wiki/sources/_index.md", "wiki/concepts/_index.md"]
+    },
+    ".raw/clippings/cortex-decentralized-kb.md": {
+      "hash": "76cb9c7d0ae63e0257c0129ba3b621d0",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/cortex-decentralized-kb.md",
+        "wiki/entities/ahmadsyafiqkamil-cortex.md",
+        "wiki/concepts/Verifiable Provenance.md",
+        "wiki/concepts/Walrus Blob Storage.md",
+        "wiki/concepts/Sui Move Coordination Layer.md",
+        "wiki/concepts/Multi-Agent Wiki.md",
+        "wiki/concepts/Dispute Layer.md",
+        "wiki/concepts/Content-Addressed Knowledge Base.md",
+        "wiki/concepts/On-Chain Confidence Score.md"
+      ],
+      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+    },
+    ".raw/clippings/podes-2024-pipeline.md": {
+      "hash": "658948387fcdbbe63b659e0bfed214f7",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/podes-2024-pipeline.md",
+        "wiki/entities/ahmadsyafiqkamil-data-podes.md",
+        "wiki/concepts/PODES Village Data Pipeline.md",
+        "wiki/concepts/IDM Village Classification.md",
+        "wiki/concepts/DBF Data Processing.md"
+      ],
+      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+    },
+    ".raw/clippings/pemilu-dapps-voting.md": {
+      "hash": "7b83be583bd8de8cabec8bf62985ad98",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/pemilu-dapps-voting.md",
+        "wiki/entities/ahmadsyafiqkamil-pemilu-dapps.md",
+        "wiki/concepts/Decentralized Voting System.md",
+        "wiki/concepts/Smart Contract Voting.md",
+        "wiki/concepts/RainbowKit Wagmi Web3 Pattern.md"
+      ],
+      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+    },
+    ".raw/clippings/pengenalan-cnn-detail.md": {
+      "hash": "29a804e20a0662f63323b247e5a05918",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/pengenalan-cnn-detail.md",
+        "wiki/concepts/LeNet.md",
+        "wiki/concepts/AlexNet.md",
+        "wiki/concepts/CNN 5-Step Pipeline.md",
+        "wiki/concepts/Weights Sharing in CNN.md",
+        "wiki/concepts/MNIST.md"
+      ],
+      "pages_updated": ["wiki/concepts/Convolutional Neural Network.md", "wiki/concepts/Neural Network Layers.md"]
+    },
+    ".raw/clippings/pengenalan-rnn-detail.md": {
+      "hash": "004a97f591af25753ed10aa997c796e0",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/pengenalan-rnn-detail.md",
+        "wiki/concepts/RNN Input-Output Types.md",
+        "wiki/concepts/Vanilla RNN.md"
+      ],
+      "pages_updated": ["wiki/concepts/Recurrent Neural Network.md", "wiki/concepts/Long Short-Term Memory.md"]
+    },
+    ".raw/clippings/pra-pemrosesan-data-dl.md": {
+      "hash": "dcda75ac43a17513cc86272f54cae3d4",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/pra-pemrosesan-data-dl.md",
+        "wiki/concepts/Data Preprocessing Deep Learning.md",
+        "wiki/concepts/Image Augmentation.md",
+        "wiki/concepts/Text Tokenization and Padding.md"
+      ],
+      "pages_updated": ["wiki/concepts/Deep Learning.md"]
+    },
+    ".raw/clippings/rangkuman-pengenalan-dl.md": {
+      "hash": "1b91c90aec61f9d9e776f39ac6463514",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/rangkuman-pengenalan-dl.md",
+        "wiki/concepts/Forward Propagation.md",
+        "wiki/concepts/Backpropagation.md"
+      ],
+      "pages_updated": ["wiki/concepts/Deep Learning Architecture.md", "wiki/concepts/Artificial Neural Networks.md", "wiki/entities/Dicoding Indonesia.md"]
     }
   },
   "address_map": {

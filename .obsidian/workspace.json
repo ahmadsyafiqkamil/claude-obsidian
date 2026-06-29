@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4211812b164a3e1c",
+        "id": "40832e3e3e3744c3",
         "type": "tabs",
         "children": [
           {
-            "id": "b121aad6d4e8f577",
+            "id": "90e25229d38a6bd2",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -168,9 +168,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "39fab1729996bc13",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -193,43 +203,46 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b121aad6d4e8f577",
+  "active": "90e25229d38a6bd2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-06-29 06.55.43.excalidraw.md",
+    "Clippings/ahmadsyafiqkamilChatbot-KJRI-Dubai.md",
+    "wiki/concepts/Backpropagation.md",
+    "wiki/concepts/Forward Propagation.md",
+    "wiki/concepts/Text Tokenization and Padding.md",
+    "wiki/concepts/Image Augmentation.md",
+    "wiki/concepts/Data Preprocessing Deep Learning.md",
+    "wiki/concepts/Vanilla RNN.md",
+    "wiki/concepts/RNN Input-Output Types.md",
+    "wiki/concepts/MNIST.md",
+    "wiki/concepts/Weights Sharing in CNN.md",
+    "wiki/concepts/CNN 5-Step Pipeline.md",
+    "wiki/concepts/AlexNet.md",
+    "wiki/concepts/LeNet.md",
+    "wiki/concepts/RainbowKit Wagmi Web3 Pattern.md",
+    "wiki/concepts/Smart Contract Voting.md",
+    "wiki/concepts/Decentralized Voting System.md",
+    "wiki/concepts/DBF Data Processing.md",
+    "wiki/concepts/IDM Village Classification.md",
+    "wiki/concepts/PODES Village Data Pipeline.md",
+    "wiki/concepts/On-Chain Confidence Score.md",
+    "wiki/concepts/Content-Addressed Knowledge Base.md",
+    "wiki/concepts/Dispute Layer.md",
+    "wiki/concepts/Multi-Agent Wiki.md",
+    "wiki/concepts/Sui Move Coordination Layer.md",
+    "wiki/concepts/Walrus Blob Storage.md",
+    "wiki/concepts/Verifiable Provenance.md",
+    "opencode.json",
+    "wiki/index.md.tmp.98916.b5da22dd7f65",
+    "Untitled 1.base",
+    "Untitled.base",
     "Excalidraw",
     "raw/CV-Ahmad-Syafiq-v4.pdf",
     "raw/CV-Ahmad-Syafiq-DevAdvocate.pdf",
     "raw/CV-Ahmad-Syafiq-ContractManager.pdf",
     "raw/CV Tech Ahmad Syafiq.pdf",
     "raw",
-    "hooks/README.md",
-    "agents/wiki-lint.md",
-    "docs/install-guide.md",
-    "Clippings/Pra-pemrosesan Data untuk Model  Belajar Fundamental Deep Learning.md",
     "wiki/canvases/main.canvas",
-    "Clippings/Rangkuman Pengenalan Deep Learning  Belajar Fundamental Deep Learning.md",
     "wiki/Wiki Map.canvas",
-    "wiki/sources/arsitektur-populer-deep-learning.md",
-    "wiki/sources/arsitektur-deep-learning.md",
-    "wiki/sources/pengantar-deep-learning.md",
-    "wiki/entities/Dicoding Indonesia.md",
-    "wiki/concepts/Transformer Architecture.md",
-    "wiki/concepts/Generative Adversarial Network.md",
-    "wiki/concepts/Long Short-Term Memory.md",
-    "wiki/concepts/Recurrent Neural Network.md",
-    "wiki/concepts/Convolutional Neural Network.md",
-    "wiki/concepts/Neural Network Layers.md",
-    "wiki/concepts/Deep Learning Architecture.md",
-    "wiki/concepts/Artificial Neural Networks.md",
-    "wiki/concepts/Deep Learning.md",
-    "wiki/concepts/Deep Learning.md.tmp.9381.b32a51f231bc",
-    "Clippings/Pengenalan Recurrent Neural Network  Belajar Fundamental Deep Learning.md",
-    "Clippings/Pengenalan Convolutional Neural Network  Belajar Fundamental Deep Learning.md",
-    "Clippings/Pengenalan Arsitektur Deep Learning yang Populer  Belajar Fundamental Deep Learning.md",
-    "2026-06-28.md",
-    "Untitled.canvas",
-    "Clippings/Arsitektur Deep Learning  Belajar Fundamental Deep Learning.md",
-    "Clippings/Pengantar Deep Learning  Belajar Fundamental Deep Learning.md",
-    "Clippings"
+    "Untitled.canvas"
   ]
 }

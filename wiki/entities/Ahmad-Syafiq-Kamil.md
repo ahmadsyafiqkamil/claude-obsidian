@@ -13,6 +13,10 @@ tags:
 status: evergreen
 related:
   - "[[cv-variants-ahmad-syafiq]]"
+  - "[[absensi-sistem-kehadiran]]"
+  - "[[cortex-decentralized-kb]]"
+  - "[[podes-2024-pipeline]]"
+  - "[[pemilu-dapps-voting]]"
 source: "[[cv-variants-ahmad-syafiq]]"
 ---
 
@@ -118,6 +122,15 @@ Research Engineer untuk national policy research. 10+ KAK/TOR authored. Data pip
 ## CV Variants
 
 4 CV variants exist, each targeting a different role. See [[cv-variants-ahmad-syafiq]] for full breakdown.
+
+---
+
+## GitHub Projects
+
+- [[ahmadsyafiqkamil/cortex]] — decentralized knowledge base on Sui + Walrus, Sui Overflow 2026
+- [[ahmadsyafiqkamil/absensi]] (not in wiki yet — see [[absensi-sistem-kehadiran]]) — HR/attendance system for KJRI
+- [[ahmadsyafiqkamil/data_podes]] — PODES 2024 + IDM data pipeline
+- [[ahmadsyafiqkamil/pemilu-dapps]] — decentralized voting dApp (Next.js + Solidity)
 
 ---
 

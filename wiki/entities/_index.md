@@ -34,6 +34,12 @@ All entity pages — people, organizations, products, and tools.
 
 ---
 
+## GitHub Repositories
+
+- [[ahmadsyafiqkamil/cortex]] — decentralized knowledge base on Sui + Walrus, Sui Overflow 2026
+- [[ahmadsyafiqkamil/data_podes]] — PODES 2024 + IDM village classification pipeline
+- [[ahmadsyafiqkamil/pemilu-dapps]] — decentralized voting dApp (Next.js + Solidity)
+
 ## Products & Tools
 
 <!-- Add tool and product pages here -->

@@ -11,6 +11,8 @@ related:
   - "[[Deep Learning]]"
   - "[[Deep Learning Architecture]]"
   - "[[Neural Network Layers]]"
+  - "[[Forward Propagation]]"
+  - "[[Backpropagation]]"
 source: "[[pengantar-deep-learning]]"
 ---
 
@@ -41,3 +43,7 @@ Lihat [[Neural Network Layers]] untuk detail setiap jenis lapisan.
 ## Sumber
 
 - [[pengantar-deep-learning]] — Dicoding Indonesia, Belajar Fundamental Deep Learning
+
+## Lihat Juga
+
+- [[rangkuman-pengenalan-dl]] — ringkasan pengenalan deep learning: sejarah, arsitektur, dan konsep fundamental

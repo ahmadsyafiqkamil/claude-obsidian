@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-29 | Total pages: 54 | Sources ingested: 6
+Last updated: 2026-06-29 | Total pages: 84 | Sources ingested: 14
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -53,6 +53,36 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Long Short-Term Memory]] — LSTM dengan gate mechanism untuk konteks panjang (status: developing)
 - [[Generative Adversarial Network]] — GAN: generator vs diskriminator (status: developing)
 - [[Transformer Architecture]] — self-attention, fondasi GPT/BERT/Claude (status: developing)
+- [[Forward Propagation]] — proses menghitung output NN dari input (status: developing)
+- [[Backpropagation]] — optimasi bobot via chain rule + gradient descent (status: developing)
+- [[LeNet]] — arsitektur CNN pertama (Yann LeCun, 1998) (status: developing)
+- [[AlexNet]] — CNN pemenang ImageNet 2012, titik balik DL (status: developing)
+- [[CNN 5-Step Pipeline]] — patches → small NN → array → downsampling → prediksi (status: developing)
+- [[Weights Sharing in CNN]] — filter identik untuk semua patch, translation invariance (status: developing)
+- [[MNIST]] — benchmark dataset digit tulisan tangan (status: developing)
+- [[RNN Input-Output Types]] — one-to-one, one-to-many, many-to-one, many-to-many (status: developing)
+- [[Vanilla RNN]] — bentuk dasar RNN dengan recurrent loop (status: developing)
+- [[Data Preprocessing Deep Learning]] — 4 tahapan preprocessing untuk model NN (status: developing)
+- [[Image Augmentation]] — rescale, rotation, flip, shear untuk data gambar (status: developing)
+- [[Text Tokenization and Padding]] — tokenizer + oov_token + pad_sequences di TensorFlow (status: developing)
+- [[Django DRF Backend Pattern]] — Django 5 + DRF + MySQL 8.0 stack (status: developing)
+- [[NextAuth JWT Bridge]] — NextAuth v5 ↔ DRF simplejwt via httpOnly cookies (status: developing)
+- [[Docker Compose Multi-Service]] — pola multi-container dev/prod (status: developing)
+- [[Export Pipeline DOCX PDF]] — template Word → python-docx → LibreOffice PDF (status: developing)
+- [[Indonesian Government HR System]] — absensi, cuti, lembur, SPPD untuk KJRI (status: developing)
+- [[Verifiable Provenance]] — Wikipedia model on trustless infrastructure (status: developing)
+- [[Walrus Blob Storage]] — immutable content-addressed storage di Sui (status: developing)
+- [[Sui Move Coordination Layer]] — on-chain pointer + identity + relationships (status: developing)
+- [[Multi-Agent Wiki]] — Agent A (ingest) + Agent B (lint/dispute) co-curation (status: developing)
+- [[Dispute Layer]] — ketidaksepakatan sebagai first-class on-chain record (status: developing)
+- [[Content-Addressed Knowledge Base]] — artefak diidentifikasi hash, bukan lokasi (status: developing)
+- [[On-Chain Confidence Score]] — unique source count per claim (status: developing)
+- [[PODES Village Data Pipeline]] — 4 DBF → ~337k × 793 → pickle + analisis (status: developing)
+- [[IDM Village Classification]] — Indeks Desa Membangun 2025, 5 tier (status: developing)
+- [[DBF Data Processing]] — dbfread + multi-encoding fallback + sparse union (status: developing)
+- [[Decentralized Voting System]] — transparansi + immutability voting on-chain (status: developing)
+- [[Smart Contract Voting]] — Solidity + Foundry voting contract pattern (status: developing)
+- [[RainbowKit Wagmi Web3 Pattern]] — RainbowKit + Wagmi + Viem di Next.js (status: developing)
 
 ---
 
@@ -73,6 +103,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[jacksteamdev-obsidian-mcp-tools]] — MCP server with Templater execution + SLSA Level 3 (status: current)
 - [[YuNaga224-obsidian-memory-mcp]] — Anthropic memory MCP fork; Markdown files + graph view (status: current)
 - [[Ahmad-Syafiq-Kamil]] — software engineer & DevOps/AI-ML specialist, Malaysia government tech; 7+ year career, 4 CV variants (status: evergreen)
+- [[ahmadsyafiqkamil/cortex]] — decentralized knowledge base on Sui + Walrus, Sui Overflow 2026 (status: developing)
+- [[ahmadsyafiqkamil/data_podes]] — PODES 2024 + IDM village classification pipeline (status: developing)
+- [[ahmadsyafiqkamil/pemilu-dapps]] — decentralized voting dApp (Next.js + Solidity) (status: developing)
 
 ---
 
@@ -83,6 +116,14 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[arsitektur-deep-learning]] — 2026-06-28 | Dicoding Indonesia | 7 jenis layer arsitektur DL
 - [[arsitektur-populer-deep-learning]] — 2026-06-28 | Dicoding Indonesia | CNN, RNN, LSTM, GAN, Transformer
 - [[cv-variants-ahmad-syafiq]] — 2026-06-29 | Ahmad Syafiq Kamil | 4 CV variants (Tech, ContractManager, DevAdvocate, v4)
+- [[absensi-sistem-kehadiran]] — 2026-06-29 | Ahmad Syafiq Kamil | Next.js + Django HR system for KJRI
+- [[cortex-decentralized-kb]] — 2026-06-29 | Ahmad Syafiq Kamil | decentralized KB on Sui + Walrus
+- [[podes-2024-pipeline]] — 2026-06-29 | Ahmad Syafiq Kamil | PODES 2024 + IDM data pipeline
+- [[pemilu-dapps-voting]] — 2026-06-29 | Ahmad Syafiq Kamil | decentralized voting dApp
+- [[pengenalan-cnn-detail]] — 2026-06-29 | Dicoding Indonesia | CNN 5-step pipeline, LeNet, AlexNet
+- [[pengenalan-rnn-detail]] — 2026-06-29 | Dicoding Indonesia | 4 tipe I/O RNN, Vanilla/LSTM/GRU
+- [[pra-pemrosesan-data-dl]] — 2026-06-29 | Dicoding Indonesia | image augmentation & text tokenization
+- [[rangkuman-pengenalan-dl]] — 2026-06-29 | Dicoding Indonesia | rangkuman kursus Fundamental DL
 
 ---
 

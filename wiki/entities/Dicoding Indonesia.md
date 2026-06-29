@@ -14,6 +14,10 @@ related:
   - "[[pengantar-deep-learning]]"
   - "[[arsitektur-deep-learning]]"
   - "[[arsitektur-populer-deep-learning]]"
+  - "[[pengenalan-cnn-detail]]"
+  - "[[pengenalan-rnn-detail]]"
+  - "[[pra-pemrosesan-data-dl]]"
+  - "[[rangkuman-pengenalan-dl]]"
 ---
 
 # Dicoding Indonesia

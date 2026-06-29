@@ -13,6 +13,11 @@ related:
   - "[[Convolutional Neural Network]]"
   - "[[Recurrent Neural Network]]"
   - "[[Transformer Architecture]]"
+  - "[[Forward Propagation]]"
+  - "[[Backpropagation]]"
+  - "[[Data Preprocessing Deep Learning]]"
+  - "[[Image Augmentation]]"
+  - "[[Text Tokenization and Padding]]"
 source: "[[pengantar-deep-learning]]"
 ---
 
@@ -53,3 +58,8 @@ Deep learning adalah subset machine learning. Metode utama:
 ## Sumber
 
 - [[pengantar-deep-learning]] — Dicoding Indonesia, Belajar Fundamental Deep Learning
+
+## Lihat Juga
+
+- [[pra-pemrosesan-data-dl]] — teknik preprocessing data untuk deep learning: augmentasi gambar, tokenisasi teks, dan normalisasi
+- [[rangkuman-pengenalan-dl]] — ringkasan pengenalan deep learning: sejarah, arsitektur, dan konsep fundamental

@@ -13,6 +13,8 @@ related:
   - "[[Convolutional Neural Network]]"
   - "[[Recurrent Neural Network]]"
   - "[[Transformer Architecture]]"
+  - "[[Forward Propagation]]"
+  - "[[Backpropagation]]"
 source: "[[arsitektur-deep-learning]]"
 ---
 
@@ -70,3 +72,7 @@ Layer terakhir yang menghasilkan prediksi. Jumlah neuron bergantung pada tugas:
 ## Sumber
 
 - [[arsitektur-deep-learning]] — Dicoding Indonesia, Belajar Fundamental Deep Learning
+
+## Lihat Juga
+
+- [[rangkuman-pengenalan-dl]] — ringkasan pengenalan deep learning: sejarah, arsitektur, dan konsep fundamental

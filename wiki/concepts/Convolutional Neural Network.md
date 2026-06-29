@@ -12,6 +12,11 @@ related:
   - "[[Deep Learning Architecture]]"
   - "[[Neural Network Layers]]"
   - "[[Deep Learning]]"
+  - "[[LeNet]]"
+  - "[[AlexNet]]"
+  - "[[CNN 5-Step Pipeline]]"
+  - "[[Weights Sharing in CNN]]"
+  - "[[MNIST]]"
 source: "[[arsitektur-populer-deep-learning]]"
 ---
 
@@ -49,3 +54,7 @@ CNN memanfaatkan **local connectivity** dan **weight sharing** — filter yang s
 ## Sumber
 
 - [[arsitektur-populer-deep-learning]] — Dicoding Indonesia, Belajar Fundamental Deep Learning
+
+## Lihat Juga
+
+- [[pengenalan-cnn-detail]] — penjelasan detail 5-step pipeline CNN dari input gambar hingga output klasifikasi

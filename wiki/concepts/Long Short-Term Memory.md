@@ -13,6 +13,8 @@ related:
   - "[[Recurrent Neural Network]]"
   - "[[Transformer Architecture]]"
   - "[[Deep Learning Architecture]]"
+  - "[[Vanilla RNN]]"
+  - "[[RNN Input-Output Types]]"
 source: "[[arsitektur-populer-deep-learning]]"
 ---
 
@@ -47,3 +49,7 @@ LSTM diperkenalkan oleh Hochreiter & Schmidhuber (1997) sebagai solusi untuk van
 ## Sumber
 
 - [[arsitektur-populer-deep-learning]] — Dicoding Indonesia, Belajar Fundamental Deep Learning
+
+## Lihat Juga
+
+- [[pengenalan-rnn-detail]] — penjelasan komprehensif arsitektur RNN, LSTM, GRU, dan aplikasi sequence modeling

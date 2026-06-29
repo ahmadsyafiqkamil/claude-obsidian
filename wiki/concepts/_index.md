@@ -51,7 +51,48 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 - [[Long Short-Term Memory]] — gate mechanism untuk konteks jangka panjang (status: developing)
 - [[Generative Adversarial Network]] — generator vs diskriminator, data sintetis (status: developing)
 - [[Transformer Architecture]] — self-attention, fondasi LLM modern (status: developing)
+- [[Forward Propagation]] — proses menghitung output NN dari input (status: developing)
+- [[Backpropagation]] — optimasi bobot via chain rule + gradient descent (status: developing)
+- [[LeNet]] — arsitektur CNN pertama (Yann LeCun, 1998) (status: developing)
+- [[AlexNet]] — CNN pemenang ImageNet 2012, titik balik DL (status: developing)
+- [[CNN 5-Step Pipeline]] — patches → small NN → array → downsampling → prediksi (status: developing)
+- [[Weights Sharing in CNN]] — filter identik untuk semua patch, translation invariance (status: developing)
+- [[MNIST]] — benchmark dataset digit tulisan tangan (status: developing)
+- [[RNN Input-Output Types]] — one-to-one, one-to-many, many-to-one, many-to-many (status: developing)
+- [[Vanilla RNN]] — bentuk dasar RNN dengan recurrent loop (status: developing)
+- [[Data Preprocessing Deep Learning]] — 4 tahapan: array → split → normalize → train/test (status: developing)
+- [[Image Augmentation]] — rescale, rotation, flip, shear untuk data gambar (status: developing)
+- [[Text Tokenization and Padding]] — tokenizer + oov_token + pad_sequences (status: developing)
 
 ---
 
-## Add new concepts here as they are extracted from sources.
+## Backend Engineering
+
+- [[Django DRF Backend Pattern]] — Django 5 + DRF + MySQL 8.0 stack (status: developing)
+- [[NextAuth JWT Bridge]] — NextAuth v5 ↔ DRF simplejwt via httpOnly cookies (status: developing)
+- [[Docker Compose Multi-Service]] — pola multi-container dev/prod (status: developing)
+- [[Export Pipeline DOCX PDF]] — template Word → python-docx → LibreOffice PDF (status: developing)
+
+---
+
+## Web3 & Blockchain
+
+- [[Verifiable Provenance]] — Wikipedia model on trustless infrastructure (status: developing)
+- [[Walrus Blob Storage]] — immutable content-addressed storage di Sui (status: developing)
+- [[Sui Move Coordination Layer]] — on-chain pointer + identity + relationships (status: developing)
+- [[Multi-Agent Wiki]] — Agent A (ingest) + Agent B (lint/dispute) co-curation (status: developing)
+- [[Dispute Layer]] — ketidaksepakatan sebagai first-class on-chain record (status: developing)
+- [[Content-Addressed Knowledge Base]] — artefak diidentifikasi oleh hash, bukan lokasi (status: developing)
+- [[On-Chain Confidence Score]] — unique source count per claim (status: developing)
+- [[Decentralized Voting System]] — transparansi + immutability voting on-chain (status: developing)
+- [[Smart Contract Voting]] — Solidity + Foundry voting contract pattern (status: developing)
+- [[RainbowKit Wagmi Web3 Pattern]] — RainbowKit + Wagmi + Viem di Next.js (status: developing)
+
+---
+
+## Government & Data
+
+- [[Indonesian Government HR System]] — absensi, cuti, lembur, SPPD untuk KJRI (status: developing)
+- [[PODES Village Data Pipeline]] — 4 DBF → ~337k × 793 → pickle + analisis (status: developing)
+- [[IDM Village Classification]] — Indeks Desa Membangun 2025, 5 tier (status: developing)
+- [[DBF Data Processing]] — dbfread + multi-encoding fallback + sparse union (status: developing)

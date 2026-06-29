@@ -19,6 +19,15 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-29] Batch Ingest | Clippings/ → 8 sources
+
+- Sources: 4 GitHub repos (absensi, cortex, data_podes, pemilu-dapps) + 4 Dicoding course notes (CNN detail, RNN detail, preprocessing, rangkuman)
+- Pages created (30): [[absensi-sistem-kehadiran]], [[cortex-decentralized-kb]], [[podes-2024-pipeline]], [[pemilu-dapps-voting]], [[pengenalan-cnn-detail]], [[pengenalan-rnn-detail]], [[pra-pemrosesan-data-dl]], [[rangkuman-pengenalan-dl]], [[ahmadsyafiqkamil/cortex]], [[ahmadsyafiqkamil/data_podes]], [[ahmadsyafiqkamil/pemilu-dapps]], [[Django DRF Backend Pattern]], [[NextAuth JWT Bridge]], [[Docker Compose Multi-Service]], [[Export Pipeline DOCX PDF]], [[Indonesian Government HR System]], [[Verifiable Provenance]], [[Walrus Blob Storage]], [[Sui Move Coordination Layer]], [[Multi-Agent Wiki]], [[Dispute Layer]], [[Content-Addressed Knowledge Base]], [[On-Chain Confidence Score]], [[PODES Village Data Pipeline]], [[IDM Village Classification]], [[DBF Data Processing]], [[Decentralized Voting System]], [[Smart Contract Voting]], [[RainbowKit Wagmi Web3 Pattern]], [[LeNet]], [[AlexNet]], [[CNN 5-Step Pipeline]], [[Weights Sharing in CNN]], [[MNIST]], [[RNN Input-Output Types]], [[Vanilla RNN]], [[Data Preprocessing Deep Learning]], [[Image Augmentation]], [[Text Tokenization and Padding]], [[Forward Propagation]], [[Backpropagation]]
+- Pages updated (9): [[Ahmad-Syafiq-Kamil]], [[Convolutional Neural Network]], [[Recurrent Neural Network]], [[Long Short-Term Memory]], [[Deep Learning]], [[Neural Network Layers]], [[Deep Learning Architecture]], [[Artificial Neural Networks]], [[Dicoding Indonesia]]
+- Key insight: 4 repositori Ahmad Syafiq (government HR system, decentralized KB on Sui, PODES pipeline, voting dApp) ditambah 4 modul detail Dicoding (CNN, RNN, preprocessing, rangkuman DL) — total 30 halaman baru, 9 halaman diupdate cross-reference.
+
+## [2026-06-29] ingest | CV Variants Ahmad Syafiq Kamil
+
 Entry format: `## [YYYY-MM-DD] operation | Title`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | head -10`

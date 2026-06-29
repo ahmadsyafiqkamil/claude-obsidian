@@ -11,6 +11,8 @@ related:
   - "[[Deep Learning Architecture]]"
   - "[[Convolutional Neural Network]]"
   - "[[Recurrent Neural Network]]"
+  - "[[CNN 5-Step Pipeline]]"
+  - "[[Weights Sharing in CNN]]"
 source: "[[arsitektur-deep-learning]]"
 ---
 
@@ -68,3 +70,7 @@ Lihat [[Recurrent Neural Network]] dan [[Long Short-Term Memory]] untuk detail.
 ## Sumber
 
 - [[arsitektur-deep-learning]] — Dicoding Indonesia, Belajar Fundamental Deep Learning
+
+## Lihat Juga
+
+- [[pengenalan-cnn-detail]] — penjelasan detail 5-step pipeline CNN dari input gambar hingga output klasifikasi

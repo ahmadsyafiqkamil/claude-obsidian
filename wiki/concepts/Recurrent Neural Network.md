@@ -13,6 +13,9 @@ related:
   - "[[Long Short-Term Memory]]"
   - "[[Deep Learning Architecture]]"
   - "[[Transformer Architecture]]"
+  - "[[RNN Input-Output Types]]"
+  - "[[Vanilla RNN]]"
+  - "[[Gated Recurrent Unit]]"
 source: "[[arsitektur-populer-deep-learning]]"
 ---
 
@@ -50,3 +53,7 @@ Untuk banyak tugas NLP, [[Transformer Architecture]] kini menggantikan RNN karen
 ## Sumber
 
 - [[arsitektur-populer-deep-learning]] — Dicoding Indonesia, Belajar Fundamental Deep Learning
+
+## Lihat Juga
+
+- [[pengenalan-rnn-detail]] — penjelasan komprehensif arsitektur RNN, LSTM, GRU, dan aplikasi sequence modeling

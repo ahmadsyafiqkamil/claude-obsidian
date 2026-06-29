@@ -25,6 +25,13 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-06-29] ingest | CV Variants — Ahmad Syafiq Kamil
+- Source: `raw/CV Tech Ahmad Syafiq.pdf`, `raw/CV-Ahmad-Syafiq-ContractManager.pdf`, `raw/CV-Ahmad-Syafiq-DevAdvocate.pdf`, `raw/CV-Ahmad-Syafiq-v4.pdf`
+- Summary: [[cv-variants-ahmad-syafiq]]
+- Pages created: [[Ahmad-Syafiq-Kamil]] (entity, committed separately as de47388), [[cv-variants-ahmad-syafiq]] (source note)
+- Pages updated: [[index]] (entity + source added, total 54), [[log]], [[hot]], `.raw/.manifest.json`
+- Key insight: 4 CV variants document Ahmad Syafiq's 7+ year career across tech, DevOps, AI/ML, and government sectors.
+
 ## [2026-06-29] ingest | Claude + Obsidian Ecosystem Research (delta pass)
 - Source: `.raw/claude-obsidian-ecosystem-research.md`
 - Summary: [[claude-obsidian-ecosystem-research]]

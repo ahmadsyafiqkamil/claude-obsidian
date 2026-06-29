@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-29 | Total pages: 52 | Sources ingested: 5
+Last updated: 2026-06-29 | Total pages: 54 | Sources ingested: 6
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -72,6 +72,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[ussumant-llm-wiki-compiler]] — batch knowledge distillation 20-30 pages → 1 compiled note (status: current)
 - [[jacksteamdev-obsidian-mcp-tools]] — MCP server with Templater execution + SLSA Level 3 (status: current)
 - [[YuNaga224-obsidian-memory-mcp]] — Anthropic memory MCP fork; Markdown files + graph view (status: current)
+- [[Ahmad-Syafiq-Kamil]] — software engineer & DevOps/AI-ML specialist, Malaysia government tech; 7+ year career, 4 CV variants (status: evergreen)
 
 ---
 
@@ -81,6 +82,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[pengantar-deep-learning]] — 2026-06-28 | Dicoding Indonesia | sejarah & definisi deep learning
 - [[arsitektur-deep-learning]] — 2026-06-28 | Dicoding Indonesia | 7 jenis layer arsitektur DL
 - [[arsitektur-populer-deep-learning]] — 2026-06-28 | Dicoding Indonesia | CNN, RNN, LSTM, GAN, Transformer
+- [[cv-variants-ahmad-syafiq]] — 2026-06-29 | Ahmad Syafiq Kamil | 4 CV variants (Tech, ContractManager, DevAdvocate, v4)
 
 ---
 

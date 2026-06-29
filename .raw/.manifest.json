@@ -25,6 +25,34 @@
       "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
     }
   },
+    "raw/CV Tech Ahmad Syafiq.pdf": {
+      "hash": null,
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/entities/Ahmad-Syafiq-Kamil.md",
+        "wiki/sources/cv-variants-ahmad-syafiq.md"
+      ],
+      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
+    },
+    "raw/CV-Ahmad-Syafiq-ContractManager.pdf": {
+      "hash": null,
+      "ingested_at": "2026-06-29",
+      "pages_created": [],
+      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+    },
+    "raw/CV-Ahmad-Syafiq-DevAdvocate.pdf": {
+      "hash": null,
+      "ingested_at": "2026-06-29",
+      "pages_created": [],
+      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+    },
+    "raw/CV-Ahmad-Syafiq-v4.pdf": {
+      "hash": null,
+      "ingested_at": "2026-06-29",
+      "pages_created": [],
+      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+    }
+  },
   "address_map": {
     "wiki/concepts/DragonScale Memory.md": "c-000001"
   }

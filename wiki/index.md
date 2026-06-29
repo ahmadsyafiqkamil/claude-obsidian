@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-28 | Total pages: 47 | Sources ingested: 5
+Last updated: 2026-06-29 | Total pages: 52 | Sources ingested: 5
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -67,6 +67,11 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[kepano-obsidian-skills]] — official skills from Obsidian creator; defuddle, obsidian-bases (status: current)
 - [[Claudian-YishenTu]] — native Obsidian plugin embedding Claude Code; plan mode, @mention (status: current)
 - [[Claude SEO]] — Tier 4 Claude Code skill for SEO analysis; 23 skills, 17 agents, 30 scripts at v1.9.0 (status: evergreen)
+- [[heyitsnoah-claudesidian]] — multi-vault, memory decay scoring, auto-stubs (status: current)
+- [[ekadetov-llm-wiki]] — hybrid BM25+vector search, Docling PDF ingestion, Marp export (status: current)
+- [[ussumant-llm-wiki-compiler]] — batch knowledge distillation 20-30 pages → 1 compiled note (status: current)
+- [[jacksteamdev-obsidian-mcp-tools]] — MCP server with Templater execution + SLSA Level 3 (status: current)
+- [[YuNaga224-obsidian-memory-mcp]] — Anthropic memory MCP fork; Markdown files + graph view (status: current)
 
 ---
 

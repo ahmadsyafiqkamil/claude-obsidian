@@ -2,7 +2,7 @@
 type: source
 title: "Claude + Obsidian Ecosystem Research"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-06-29
 tags:
   - research
   - ecosystem
@@ -36,6 +36,11 @@ Comprehensive internet sweep of all Claude + Obsidian projects. Found 16+ active
 - [[rvk7895-llm-knowledge-bases]] — entity page
 - [[kepano-obsidian-skills]] — entity page
 - [[Claudian-YishenTu]] — entity page
+- [[heyitsnoah-claudesidian]] — entity page (multi-vault, memory decay)
+- [[ekadetov-llm-wiki]] — entity page (hybrid BM25+vector search, Docling PDF)
+- [[ussumant-llm-wiki-compiler]] — entity page (batch knowledge distillation)
+- [[jacksteamdev-obsidian-mcp-tools]] — entity page (MCP + Templater execution)
+- [[YuNaga224-obsidian-memory-mcp]] — entity page (Anthropic memory MCP fork)
 
 ## Key Findings
 

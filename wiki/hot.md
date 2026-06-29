@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-17T04:30:00
+updated: 2026-06-29
 tags:
   - meta
   - hot-cache
@@ -19,6 +19,8 @@ related:
 Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
+
+2026-06-29: **Ecosystem Research delta ingest** — 5 entity pages dibuat yang terlepas dari ingest pertama (2026-04-08): [[heyitsnoah-claudesidian]] (multi-vault, memory decay), [[ekadetov-llm-wiki]] (BM25+vector hybrid search, Docling PDF), [[ussumant-llm-wiki-compiler]] (batch distillation), [[jacksteamdev-obsidian-mcp-tools]] (MCP + Templater execution, SLSA L3), [[YuNaga224-obsidian-memory-mcp]] (Anthropic memory MCP fork + graph view). Manifest desynced — source `sources{}` kini direkodkan. Total pages: 52.
 
 2026-06-28: **Deep Learning ingest dari Clippings** — 3 artikel Dicoding Indonesia (Belajar Fundamental Deep Learning) diingest. 13 fail baru dibuat: 9 concept pages (Deep Learning, ANN, DL Architecture, Neural Network Layers, CNN, RNN, LSTM, GAN, Transformer Architecture), 1 entity (Dicoding Indonesia), 3 source notes. 5 index files dikemaskini. Total pages: 47. Sources ingested: 5.
 

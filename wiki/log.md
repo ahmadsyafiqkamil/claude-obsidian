@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-04-08
+updated: 2026-06-29
 tags:
   - meta
   - log
@@ -24,6 +24,13 @@ Entry format: `## [YYYY-MM-DD] operation | Title`
 Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
+
+## [2026-06-29] ingest | Claude + Obsidian Ecosystem Research (delta pass)
+- Source: `.raw/claude-obsidian-ecosystem-research.md`
+- Summary: [[claude-obsidian-ecosystem-research]]
+- Pages created: [[heyitsnoah-claudesidian]], [[ekadetov-llm-wiki]], [[ussumant-llm-wiki-compiler]], [[jacksteamdev-obsidian-mcp-tools]], [[YuNaga224-obsidian-memory-mcp]]
+- Pages updated: [[claude-obsidian-ecosystem-research]] (pages list), [[index]] (5 new entities, total 52)
+- Key insight: Prior ingest (2026-04-08) created 8 pages but missed 5 entities; manifest was desynced — now reconciled.
 
 ## [2026-04-24] save | v1.6.0 public release notes (Teams, Karpathy-style)
 - Type: release doc + visual assets

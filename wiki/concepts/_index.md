@@ -40,4 +40,18 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 
 ---
 
+## Deep Learning
+
+- [[Deep Learning]] — definisi, sejarah (1943-2012), hubungan dengan ML, tantangan (status: developing)
+- [[Artificial Neural Networks]] — model matematis multi-layer, prinsip backpropagation (status: developing)
+- [[Deep Learning Architecture]] — struktur Input→Hidden→Output, jenis-jenis layer (status: developing)
+- [[Neural Network Layers]] — referensi 7 jenis hidden layer: Dense, Conv, BN, RNN, Dropout, Pooling, Flatten (status: developing)
+- [[Convolutional Neural Network]] — ekstraksi fitur hierarkis untuk gambar dan visual (status: developing)
+- [[Recurrent Neural Network]] — loop rekursif untuk data berurutan, vanishing gradient (status: developing)
+- [[Long Short-Term Memory]] — gate mechanism untuk konteks jangka panjang (status: developing)
+- [[Generative Adversarial Network]] — generator vs diskriminator, data sintetis (status: developing)
+- [[Transformer Architecture]] — self-attention, fondasi LLM modern (status: developing)
+
+---
+
 ## Add new concepts here as they are extracted from sources.

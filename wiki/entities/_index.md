@@ -30,7 +30,7 @@ All entity pages — people, organizations, products, and tools.
 
 ## Organizations
 
-<!-- Add organization pages here -->
+- [[Dicoding Indonesia]] — platform belajar online teknologi Indonesia; sumber kursus Belajar Fundamental Deep Learning
 
 ---
 

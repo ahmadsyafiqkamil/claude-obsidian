@@ -29,7 +29,9 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 
 ## Articles
 
-<!-- Add article source pages here -->
+- [[pengantar-deep-learning]] — 2026-06-28 | Dicoding Indonesia | sejarah & definisi deep learning
+- [[arsitektur-deep-learning]] — 2026-06-28 | Dicoding Indonesia | 7 jenis layer dalam arsitektur DL
+- [[arsitektur-populer-deep-learning]] — 2026-06-28 | Dicoding Indonesia | CNN, RNN, LSTM, GAN, Transformer
 
 ---
 

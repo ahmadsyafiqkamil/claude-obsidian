@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "477f1cf965ca606e",
+        "id": "4211812b164a3e1c",
         "type": "tabs",
         "children": [
           {
-            "id": "a31de1b302cdc5cf",
+            "id": "b121aad6d4e8f577",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/concepts/Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Deep Learning"
             }
           },
           {
@@ -164,11 +165,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,15 +179,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-memos:Thino Super": false,
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "a31de1b302cdc5cf",
-  "lastOpenFiles": []
+  "active": "b121aad6d4e8f577",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-29 06.55.43.excalidraw.md",
+    "Excalidraw",
+    "raw/CV-Ahmad-Syafiq-v4.pdf",
+    "raw/CV-Ahmad-Syafiq-DevAdvocate.pdf",
+    "raw/CV-Ahmad-Syafiq-ContractManager.pdf",
+    "raw/CV Tech Ahmad Syafiq.pdf",
+    "raw",
+    "hooks/README.md",
+    "agents/wiki-lint.md",
+    "docs/install-guide.md",
+    "Clippings/Pra-pemrosesan Data untuk Model  Belajar Fundamental Deep Learning.md",
+    "wiki/canvases/main.canvas",
+    "Clippings/Rangkuman Pengenalan Deep Learning  Belajar Fundamental Deep Learning.md",
+    "wiki/Wiki Map.canvas",
+    "wiki/sources/arsitektur-populer-deep-learning.md",
+    "wiki/sources/arsitektur-deep-learning.md",
+    "wiki/sources/pengantar-deep-learning.md",
+    "wiki/entities/Dicoding Indonesia.md",
+    "wiki/concepts/Transformer Architecture.md",
+    "wiki/concepts/Generative Adversarial Network.md",
+    "wiki/concepts/Long Short-Term Memory.md",
+    "wiki/concepts/Recurrent Neural Network.md",
+    "wiki/concepts/Convolutional Neural Network.md",
+    "wiki/concepts/Neural Network Layers.md",
+    "wiki/concepts/Deep Learning Architecture.md",
+    "wiki/concepts/Artificial Neural Networks.md",
+    "wiki/concepts/Deep Learning.md",
+    "wiki/concepts/Deep Learning.md.tmp.9381.b32a51f231bc",
+    "Clippings/Pengenalan Recurrent Neural Network  Belajar Fundamental Deep Learning.md",
+    "Clippings/Pengenalan Convolutional Neural Network  Belajar Fundamental Deep Learning.md",
+    "Clippings/Pengenalan Arsitektur Deep Learning yang Populer  Belajar Fundamental Deep Learning.md",
+    "2026-06-28.md",
+    "Untitled.canvas",
+    "Clippings/Arsitektur Deep Learning  Belajar Fundamental Deep Learning.md",
+    "Clippings/Pengantar Deep Learning  Belajar Fundamental Deep Learning.md",
+    "Clippings"
+  ]
 }

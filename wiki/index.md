@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-04-15 | Total pages: 34 | Sources ingested: 2
+Last updated: 2026-06-28 | Total pages: 47 | Sources ingested: 5
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -44,12 +44,22 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Persistent Wiki Artifact]]: durable Markdown page as the LLM's memory object, distinct from ephemeral chat turns (status: developing)
 - [[Source-First Synthesis]]: provenance discipline; raw sources stay immutable while the wiki layer is synthesized and cited (status: developing)
 - [[Query-Time Retrieval]]: wiki query path synthesizes with citations; complementary to Obsidian's in-vault search (status: developing)
+- [[Deep Learning]] — definisi, sejarah 1943-2012, cabang AI berbasis ANN (status: developing)
+- [[Artificial Neural Networks]] — model matematis multi-layer, backpropagation (status: developing)
+- [[Deep Learning Architecture]] — struktur Input→Hidden→Output, 7 jenis layer (status: developing)
+- [[Neural Network Layers]] — referensi Dense, Conv, BN, RNN, Dropout, Pooling, Flatten (status: developing)
+- [[Convolutional Neural Network]] — CNN untuk computer vision dan pengenalan gambar (status: developing)
+- [[Recurrent Neural Network]] — RNN untuk data berurutan, NLP, time series (status: developing)
+- [[Long Short-Term Memory]] — LSTM dengan gate mechanism untuk konteks panjang (status: developing)
+- [[Generative Adversarial Network]] — GAN: generator vs diskriminator (status: developing)
+- [[Transformer Architecture]] — self-attention, fondasi GPT/BERT/Claude (status: developing)
 
 ---
 
 ## Entities
 
 - [[Andrej Karpathy]] — AI researcher, creator of the LLM Wiki pattern, former Tesla AI director (status: developing)
+- [[Dicoding Indonesia]] — platform belajar online teknologi Indonesia; sumber kursus Belajar Fundamental Deep Learning (status: current)
 - [[Ar9av-obsidian-wiki]] — multi-agent compatible LLM Wiki plugin; delta tracking manifest (status: current)
 - [[Nexus-claudesidian-mcp]] — native Obsidian plugin + MCP bridge; workspace memory, task management (status: current)
 - [[ballred-obsidian-claude-pkm]] — goal cascade PKM; auto-commit hooks, /adopt command (status: current)
@@ -63,6 +73,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 ## Sources
 
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
+- [[pengantar-deep-learning]] — 2026-06-28 | Dicoding Indonesia | sejarah & definisi deep learning
+- [[arsitektur-deep-learning]] — 2026-06-28 | Dicoding Indonesia | 7 jenis layer arsitektur DL
+- [[arsitektur-populer-deep-learning]] — 2026-06-28 | Dicoding Indonesia | CNN, RNN, LSTM, GAN, Transformer
 
 ---
 

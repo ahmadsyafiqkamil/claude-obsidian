@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV — Ahmad Syafiq Kamil — Web3 Developer</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+      font-size: 11pt;
+      line-height: 1.5;
+      color: #1a1a1a;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 32px 40px;
+    }
+    h1 { font-size: 22pt; font-weight: 700; text-align: center; margin-bottom: 2px; color: #1a1a1a; }
+    .contact { text-align: center; font-size: 9.5pt; color: #555; margin-bottom: 18px; }
+    .contact a { color: #2563eb; text-decoration: none; }
+    h2 {
+      font-size: 11.5pt; font-weight: 700; text-transform: uppercase; letter-spacing: 0.6px;
+      color: #1a1a1a; border-bottom: 1.5px solid #2563eb; padding-bottom: 2px;
+      margin-top: 20px; margin-bottom: 8px;
+    }
+    .summary { font-size: 10.5pt; line-height: 1.55; margin-bottom: 2px; }
+    .skills-group { margin-bottom: 4px; }
+    .skills-label { font-weight: 600; }
+    .skills-value { color: #333; }
+    .role { margin-bottom: 10px; }
+    .role-header { display: flex; justify-content: space-between; align-items: baseline; }
+    .role-title { font-weight: 700; font-size: 11pt; }
+    .role-org { font-weight: 600; color: #2563eb; }
+    .role-dates { font-size: 9.5pt; color: #666; white-space: nowrap; }
+    ul { margin: 3px 0 0 18px; }
+    li { font-size: 10pt; margin-bottom: 2px; }
+    .edu-item { margin-bottom: 6px; }
+    .edu-title { font-weight: 600; }
+    .cert-item { font-size: 10pt; margin-bottom: 2px; }
+    .lang-item { font-size: 10pt; }
+    .chain-highlight { font-weight: 700; color: #2563eb; }
+
+    @media print {
+      body { padding: 0; }
+      h2 { color: #000; border-bottom-color: #000; }
+      .role-org { color: #000; }
+      .contact a { color: #000; }
+      .chain-highlight { color: #000; }
+      @page { margin: 0.5in; }
+    }
+  </style>
+</head>
+<body>
+
+<h1>AHMAD SYAFIQ KAMIL</h1>
+<div class="contact">
+  Jakarta, Indonesia &nbsp;|&nbsp; ahmadsyafiqkamil@gmail.com &nbsp;|&nbsp; +62 813 3014 5415<br>
+  <a href="https://github.com/ahmadsyafiqkamil">github.com/ahmadsyafiqkamil</a>
+</div>
+
+<h2>Professional Summary</h2>
+<p class="summary">
+  Blockchain &amp; Full-Stack Developer with 7+ years of engineering experience and a focused track record in Web3 development across <span class="chain-highlight">Ethereum</span> and <span class="chain-highlight">Sui</span>. Built and shipped four decentralized applications — spanning on-chain voting, social-impact funding (deployed to Ethereum mainnet), decentralized storage on Sui with Walrus, and IPFS-backed notes — using Solidity, Sui Move, Hardhat, Wagmi, and Web3.js. Backed by production depth in Python, TypeScript, and cloud-native infrastructure across government-scale systems serving 1M+ users.
+</p>
+
+<h2>Technical Skills</h2>
+<div class="skills-group"><span class="skills-label">Blockchain:</span> <span class="skills-value">Solidity, Ethereum, Sui Move, Web3.js, ethers.js, Hardhat, Wagmi, RainbowKit, Walrus, IPFS, ERC-20/ERC-721</span></div>
+<div class="skills-group"><span class="skills-label">Languages:</span> <span class="skills-value">Python (Advanced), TypeScript/JavaScript, Go, Rust, Solidity, PHP, SQL</span></div>
+<div class="skills-group"><span class="skills-label">Backend:</span> <span class="skills-value">Node.js, Next.js, FastAPI, Django REST Framework, Flask, Laravel</span></div>
+<div class="skills-group"><span class="skills-label">Frontend:</span> <span class="skills-value">React, Next.js, Wagmi/RainbowKit (Web3 UI), SwiftUI</span></div>
+<div class="skills-group"><span class="skills-label">DevOps &amp; Cloud:</span> <span class="skills-value">Docker, Kubernetes, AWS, DigitalOcean, Linux, Nginx, CI/CD (GitHub Actions)</span></div>
+<div class="skills-group"><span class="skills-label">AI &amp; ML:</span> <span class="skills-value">Google ADK, LangChain, LangGraph, Claude API, MLOps, OpenCV</span></div>
+<div class="skills-group"><span class="skills-label">Data:</span> <span class="skills-value">PostgreSQL, MySQL, Pandas, NumPy, Airflow</span></div>
+
+<h2>Blockchain Projects</h2>
+
+<div class="role">
+  <div class="role-header">
+    <div><span class="role-title">Cortex — Decentralized Knowledge Base</span> &nbsp;<span class="role-org">Sui Overflow 2026</span></div>
+    <div class="role-dates">2026</div>
+  </div>
+  <ul>
+    <li>Content-addressed knowledge base on <span class="chain-highlight">Sui</span> blockchain with <span class="chain-highlight">Walrus</span> blob storage for permanent, verifiable document archival</li>
+    <li>Authored <span class="chain-highlight">Sui Move</span> smart contracts for on-chain ownership and access-control logic</li>
+    <li>Submitted to Sui Overflow 2026 hackathon &mdash; Stack: Sui Move, Walrus, TypeScript &nbsp;|&nbsp; <em>github.com/ahmadsyafiqkamil/cortex</em></li>
+  </ul>
+</div>
+
+<div class="role">
+  <div class="role-header">
+    <div><span class="role-title">Pemilu DApps — Decentralized E-Voting</span></div>
+    <div class="role-dates">2025</div>
+  </div>
+  <ul>
+    <li>Transparent, immutable voting system with on-chain vote counting via <span class="chain-highlight">Solidity</span> smart contracts on <span class="chain-highlight">Ethereum</span></li>
+    <li>Integrated wallet connection and transaction signing with <span class="chain-highlight">RainbowKit</span> and <span class="chain-highlight">Wagmi</span></li>
+    <li>Stack: Solidity, Ethereum, Next.js, RainbowKit, Wagmi &nbsp;|&nbsp; <em>github.com/ahmadsyafiqkamil/pemilu-dapps</em></li>
+  </ul>
+</div>
+
+<div class="role">
+  <div class="role-header">
+    <div><span class="role-title">BetterFuture — Social Impact DApp</span></div>
+    <div class="role-dates">2025</div>
+  </div>
+  <ul>
+    <li>Blockchain-based social-impact funding platform deployed to <span class="chain-highlight">Ethereum mainnet</span></li>
+    <li>Smart contracts manage fund allocation and milestone-based release logic</li>
+    <li>Stack: Solidity, Ethereum, Web3.js, Hardhat</li>
+  </ul>
+</div>
+
+<div class="role">
+  <div class="role-header">
+    <div><span class="role-title">E-Notes Blockchain — Decentralized Notes</span></div>
+    <div class="role-dates">2025</div>
+  </div>
+  <ul>
+    <li>Decentralized note storage with content pinned to <span class="chain-highlight">IPFS</span> and ownership tracked on-chain via Solidity</li>
+    <li>Stack: Solidity, Next.js, Flask, Docker, IPFS</li>
+  </ul>
+</div>
+
+<h2>Professional Experience</h2>
+
+<div class="role">
+  <div class="role-header">
+    <div><span class="role-title">Senior Full-Stack Engineer &amp; Lead Consultant</span> — <span class="role-org">Syamil Solusindo Semesta</span></div>
+    <div class="role-dates">2022 &ndash; Present</div>
+  </div>
+  <ul>
+    <li>Architected and deployed 8 production applications for 7 Indonesian diplomatic missions in Malaysia and UAE &mdash; 500+ daily active users, 1M+ registered citizens</li>
+    <li>Built <strong>AI Chatbot KJRI Dubai</strong> using Google ADK, FastAPI, and LangChain &mdash; first LLM-agent deployment in Indonesian diplomatic infrastructure</li>
+    <li>Delivered <strong>Protkons</strong>, a national consular platform (PHP, CodeIgniter, MySQL) unifying operations across 6 Malaysian missions; ISO 27001 compliant (RBAC, AES-256)</li>
+    <li>Managed 10+ government procurement contracts (RAB/KAK)</li>
+  </ul>
+</div>
+
+<div class="role">
+  <div class="role-header">
+    <div><span class="role-title">Research Engineer (Perekayasa)</span> — <span class="role-org">BRIN — National Research and Innovation Agency</span></div>
+    <div class="role-dates">2022 &ndash; 2025</div>
+  </div>
+  <ul>
+    <li>Built MLOps infrastructure on Kubernetes with Kubeflow, TensorFlow, and MLflow for multi-center research collaboration</li>
+    <li>Designed national-scale data pipelines and web scraping tools for government policy research</li>
+  </ul>
+</div>
+
+<div class="role">
+  <div class="role-header">
+    <div><span class="role-title">AI/ML Engineer</span> — <span class="role-org">BPPT — Agency for Assessment and Application of Technology</span></div>
+    <div class="role-dates">2021 &ndash; 2022</div>
+  </div>
+  <ul>
+    <li>Developed face recognition attendance system using Python, TensorFlow, and ResNet &mdash; 92% accuracy at ministry scale</li>
+  </ul>
+</div>
+
+<div class="role">
+  <div class="role-header">
+    <div><span class="role-title">Software Engineer</span> — <span class="role-org">KBRI Malaysia — Embassy of the Republic of Indonesia</span></div>
+    <div class="role-dates">2019 &ndash; 2021</div>
+  </div>
+  <ul>
+    <li>Built and maintained mission-critical consular service applications for Indonesian citizens in Malaysia</li>
+  </ul>
+</div>
+
+<h2>Education</h2>
+<div class="edu-item">
+  <span class="edu-title">M.Kom — Information Systems</span><br>
+  Institut Teknologi Sepuluh Nopember (ITS) Surabaya &nbsp;|&nbsp; 2015 &ndash; 2018 &nbsp;|&nbsp; GPA 3.38
+</div>
+<div class="edu-item">
+  <span class="edu-title">S.Kom — Information Systems</span><br>
+  Universitas Jember &nbsp;|&nbsp; 2010 &ndash; 2015 &nbsp;|&nbsp; GPA 3.34
+</div>
+
+<h2>Certifications</h2>
+<div class="cert-item">SUI Blockchain Bootcamp (2025)</div>
+<div class="cert-item">Blockchain Developer (Solidity) — BlockDevId (2025)</div>
+<div class="cert-item">KodingDeepDive x BwAI — Architect AI Agent Systems (2025)</div>
+<div class="cert-item">Langchain Academy — Deep Agent with LangGraph (2025)</div>
+<div class="cert-item">DigitalOcean Kubernetes Challenge (2023)</div>
+<div class="cert-item">Lead Auditor ISO 27001:2013 — Information Security Management (2019)</div>
+
+<h2>Languages</h2>
+<div class="lang-item">Bahasa Indonesia (Native) &nbsp;|&nbsp; English (B2 &ndash; Professional Working Proficiency)</div>
+
+</body>
+</html>

@@ -17,6 +17,8 @@ related:
   - "[[cortex-decentralized-kb]]"
   - "[[podes-2024-pipeline]]"
   - "[[pemilu-dapps-voting]]"
+  - "[[chatbot-kjri-dubai]]"
+  - "[[protkons-consular-management]]"
 source: "[[cv-variants-ahmad-syafiq]]"
 ---
 
@@ -131,6 +133,8 @@ Research Engineer untuk national policy research. 10+ KAK/TOR authored. Data pip
 - [[ahmadsyafiqkamil/absensi]] (not in wiki yet — see [[absensi-sistem-kehadiran]]) — HR/attendance system for KJRI
 - [[ahmadsyafiqkamil/data_podes]] — PODES 2024 + IDM data pipeline
 - [[ahmadsyafiqkamil/pemilu-dapps]] — decentralized voting dApp (Next.js + Solidity)
+- [[ahmadsyafiqkamil-Chatbot-KJRI-Dubai]] — AI chatbot konsuler KJRI Dubai (Google ADK + MCP Toolbox)
+- [[CV-Syamil-Protkons]] — PROTKONS: sistem manajemen layanan konsuler KBRI Kuala Lumpur (CodeIgniter 3)
 
 ---
 

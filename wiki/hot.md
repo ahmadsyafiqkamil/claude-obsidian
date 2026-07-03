@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-29
+updated: 2026-07-03
 tags:
   - meta
   - hot-cache
@@ -19,6 +19,8 @@ related:
 Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
+
+2026-07-03: **Batch ingest — 4 repos (Chatbot KJRI Dubai + PROTKONS + MoSCoW ×2) + 3 DL articles** — 13 halaman baru: 4 source pages ([[chatbot-kjri-dubai]], [[protkons-consular-management]], [[moscow-method-productplan]], [[moscow-method-glints]]), 2 entity pages ([[ahmadsyafiqkamil-Chatbot-KJRI-Dubai]], [[CV-Syamil-Protkons]]), 7 concept pages ([[MoSCoW Prioritization]], [[Google Agent Development Kit]], [[MCP Toolbox]], [[pgvector Semantic Search]], [[CodeIgniter 3]], [[Consular Service Management]], [[Tanda Tangan Elektronik]]). 6 existing pages diupdate. Total pages: 97. Sources ingested: 21.
 
 2026-06-29: **Batch ingest Clippings/ — 8 sources (4 repos + 4 Dicoding)** — 30 halaman baru dibuat: 8 source pages ([[absensi-sistem-kehadiran]], [[cortex-decentralized-kb]], [[podes-2024-pipeline]], [[pemilu-dapps-voting]], [[pengenalan-cnn-detail]], [[pengenalan-rnn-detail]], [[pra-pemrosesan-data-dl]], [[rangkuman-pengenalan-dl]]), 3 entity pages ([[ahmadsyafiqkamil/cortex]], [[ahmadsyafiqkamil/data_podes]], [[ahmadsyafiqkamil/pemilu-dapps]]), 18 concept pages untuk GitHub repos (Django DRF, NextAuth JWT, Docker Compose, Export Pipeline, Govt HR System, Verifiable Provenance, Walrus, Sui Move, Multi-Agent Wiki, Dispute Layer, Content-Addressed KB, Confidence Score, PODES Pipeline, IDM Classification, DBF Processing, Decentralized Voting, Smart Contract Voting, RainbowKit Wagmi), 12 concept pages untuk Dicoding (LeNet, AlexNet, CNN 5-Step, Weights Sharing, MNIST, RNN I/O Types, Vanilla RNN, Data Preprocessing, Image Augmentation, Text Tokenization, Forward Propagation, Backpropagation). 9 existing pages diupdate cross-reference. Total pages: 84. Sources ingested: 14.
 

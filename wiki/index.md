@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-29 | Total pages: 84 | Sources ingested: 14
+Last updated: 2026-07-03 | Total pages: 97 | Sources ingested: 21
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -83,6 +83,13 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Decentralized Voting System]] — transparansi + immutability voting on-chain (status: developing)
 - [[Smart Contract Voting]] — Solidity + Foundry voting contract pattern (status: developing)
 - [[RainbowKit Wagmi Web3 Pattern]] — RainbowKit + Wagmi + Viem di Next.js (status: developing)
+- [[MoSCoW Prioritization]] — framework prioritisasi M/S/C/W oleh Dai Clegg (Oracle), 4 kategori (status: current)
+- [[Google Agent Development Kit]] — framework agent dari Google, orkestrasi LLM + tool calls (status: developing)
+- [[MCP Toolbox]] — bridge SQL → MCP tools untuk AI agent (status: developing)
+- [[pgvector Semantic Search]] — embedding-based search di PostgreSQL (status: developing)
+- [[CodeIgniter 3]] — PHP MVC framework ringan, digunakan di PROTKONS (status: current)
+- [[Consular Service Management]] — pola domain sistem informasi layanan konsuler KBRI/KJRI (status: developing)
+- [[Tanda Tangan Elektronik]] — integrasi TTE untuk dokumen resmi pemerintah (status: developing)
 
 ---
 
@@ -106,6 +113,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[ahmadsyafiqkamil/cortex]] — decentralized knowledge base on Sui + Walrus, Sui Overflow 2026 (status: developing)
 - [[ahmadsyafiqkamil/data_podes]] — PODES 2024 + IDM village classification pipeline (status: developing)
 - [[ahmadsyafiqkamil/pemilu-dapps]] — decentralized voting dApp (Next.js + Solidity) (status: developing)
+- [[ahmadsyafiqkamil-Chatbot-KJRI-Dubai]] — AI chatbot konsuler KJRI Dubai (Google ADK, MCP Toolbox, pgvector) (status: current)
+- [[CV-Syamil-Protkons]] — PROTKONS: sistem manajemen layanan konsuler KBRI KL (CodeIgniter 3, PHP) (status: current)
 
 ---
 
@@ -124,6 +133,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[pengenalan-rnn-detail]] — 2026-06-29 | Dicoding Indonesia | 4 tipe I/O RNN, Vanilla/LSTM/GRU
 - [[pra-pemrosesan-data-dl]] — 2026-06-29 | Dicoding Indonesia | image augmentation & text tokenization
 - [[rangkuman-pengenalan-dl]] — 2026-06-29 | Dicoding Indonesia | rangkuman kursus Fundamental DL
+- [[moscow-method-productplan]] — 2026-07-03 | ProductPlan | MoSCoW glossary (EN)
+- [[moscow-method-glints]] — 2026-07-03 | Glints | MoSCoW method project management (ID)
+- [[chatbot-kjri-dubai]] — 2026-07-03 | Ahmad Syafiq Kamil | AI chatbot KJRI Dubai (Google ADK)
+- [[protkons-consular-management]] — 2026-07-03 | Ahmad Syafiq Kamil | PROTKONS KBRI KL (CodeIgniter 3)
 
 ---
 

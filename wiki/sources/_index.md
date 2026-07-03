@@ -33,6 +33,8 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[cortex-decentralized-kb]] — 2026-06-29 | Ahmad Syafiq Kamil | decentralized KB on Sui + Walrus
 - [[podes-2024-pipeline]] — 2026-06-29 | Ahmad Syafiq Kamil | PODES 2024 + IDM data pipeline
 - [[pemilu-dapps-voting]] — 2026-06-29 | Ahmad Syafiq Kamil | decentralized voting dApp
+- [[chatbot-kjri-dubai]] — 2026-07-03 | Ahmad Syafiq Kamil | AI chatbot konsuler KJRI Dubai (Google ADK, MCP Toolbox)
+- [[protkons-consular-management]] — 2026-07-03 | Ahmad Syafiq Kamil | PROTKONS: sistem layanan konsuler KBRI KL (CodeIgniter 3)
 
 ## Articles
 
@@ -43,6 +45,8 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[pengenalan-rnn-detail]] — 2026-06-29 | Dicoding Indonesia | 4 tipe I/O RNN, Vanilla/LSTM/GRU
 - [[pra-pemrosesan-data-dl]] — 2026-06-29 | Dicoding Indonesia | image augmentation & text tokenization
 - [[rangkuman-pengenalan-dl]] — 2026-06-29 | Dicoding Indonesia | rangkuman kursus Fundamental DL
+- [[moscow-method-productplan]] — 2026-07-03 | ProductPlan | MoSCoW prioritization glossary (EN)
+- [[moscow-method-glints]] — 2026-07-03 | Glints | MoSCoW method untuk project management (ID)
 
 ## CV / Personal
 

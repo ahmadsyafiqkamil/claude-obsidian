@@ -23,8 +23,7 @@
         "wiki/entities/YuNaga224-obsidian-memory-mcp.md"
       ],
       "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
-    }
-  },
+    },
     "raw/CV Tech Ahmad Syafiq.pdf": {
       "hash": null,
       "ingested_at": "2026-06-29",
@@ -148,6 +147,65 @@
         "wiki/concepts/Backpropagation.md"
       ],
       "pages_updated": ["wiki/concepts/Deep Learning Architecture.md", "wiki/concepts/Artificial Neural Networks.md", "wiki/entities/Dicoding Indonesia.md"]
+    },
+    ".raw/clippings/ahmadsyafiqkamilChatbot-KJRI-Dubai.md": {
+      "hash": "ac25eecadfc7348470d1156130278fbd",
+      "ingested_at": "2026-07-03",
+      "pages_created": [
+        "wiki/sources/chatbot-kjri-dubai.md",
+        "wiki/entities/ahmadsyafiqkamil-Chatbot-KJRI-Dubai.md",
+        "wiki/concepts/Google Agent Development Kit.md",
+        "wiki/concepts/MCP Toolbox.md",
+        "wiki/concepts/pgvector Semantic Search.md"
+      ],
+      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md", "wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/entities/_index.md", "wiki/sources/_index.md", "wiki/concepts/_index.md"]
+    },
+    ".raw/clippings/CV-SyamilProtkons.md": {
+      "hash": "cfd3df5b7643cee817b5d61491ad9a3d",
+      "ingested_at": "2026-07-03",
+      "pages_created": [
+        "wiki/sources/protkons-consular-management.md",
+        "wiki/entities/CV-Syamil-Protkons.md",
+        "wiki/concepts/CodeIgniter 3.md",
+        "wiki/concepts/Consular Service Management.md",
+        "wiki/concepts/Tanda Tangan Elektronik.md"
+      ],
+      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md", "wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/entities/_index.md", "wiki/sources/_index.md", "wiki/concepts/_index.md"]
+    },
+    ".raw/clippings/MoSCoW Prioritization  Glossary.md": {
+      "hash": "729a9963a436ce2519545e21ef1a02f7",
+      "ingested_at": "2026-07-03",
+      "pages_created": [
+        "wiki/sources/moscow-method-productplan.md",
+        "wiki/concepts/MoSCoW Prioritization.md"
+      ],
+      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/sources/_index.md", "wiki/concepts/_index.md"]
+    },
+    ".raw/clippings/Jangan Bingung Pilih Prioritas, Pakai MoSCoW untuk Project Management!.md": {
+      "hash": "b378dbbeb193aae9eb150ef2a9fd8615",
+      "ingested_at": "2026-07-03",
+      "pages_created": [
+        "wiki/sources/moscow-method-glints.md"
+      ],
+      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/sources/_index.md", "wiki/concepts/_index.md", "wiki/concepts/MoSCoW Prioritization.md"]
+    },
+    ".raw/clippings/Pengantar Deep Learning  Belajar Fundamental Deep Learning.md": {
+      "hash": "ffcdcc999944a0990638a67adbd44cbf",
+      "ingested_at": "2026-06-28",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    ".raw/clippings/Arsitektur Deep Learning  Belajar Fundamental Deep Learning.md": {
+      "hash": "e20572019c690ad83233f7e3416affcf",
+      "ingested_at": "2026-06-28",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    ".raw/clippings/Pengenalan Arsitektur Deep Learning yang Populer  Belajar Fundamental Deep Learning.md": {
+      "hash": "41f8bf5fc34f5966f4ac9c59dbcaf08e",
+      "ingested_at": "2026-06-28",
+      "pages_created": [],
+      "pages_updated": []
     }
   },
   "address_map": {

@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-06-29
+updated: 2026-07-03
 tags:
   - meta
   - log
@@ -18,6 +18,13 @@ related:
 Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
+
+## [2026-07-03] ingest | Chatbot KJRI Dubai + PROTKONS + MoSCoW (2) + 3 DL articles
+
+- Sources: 2 GitHub repos (Chatbot-KJRI-Dubai, Protkons) + 2 MoSCoW articles (ProductPlan EN, Glints ID) + 3 Dicoding DL articles (registered, pages already exist)
+- Pages created (13): [[chatbot-kjri-dubai]], [[protkons-consular-management]], [[moscow-method-productplan]], [[moscow-method-glints]], [[ahmadsyafiqkamil-Chatbot-KJRI-Dubai]], [[CV-Syamil-Protkons]], [[MoSCoW Prioritization]], [[Google Agent Development Kit]], [[MCP Toolbox]], [[pgvector Semantic Search]], [[CodeIgniter 3]], [[Consular Service Management]], [[Tanda Tangan Elektronik]]
+- Pages updated (6): [[Ahmad-Syafiq-Kamil]], [[index]], [[entities/_index]], [[sources/_index]], [[concepts/_index]], [[hot]]
+- Key insight: Dua projek konsuler Ahmad Syafiq — PROTKONS (CodeIgniter 3, tradisional, 1M+ WNI, 6 misi) vs Chatbot KJRI Dubai (AI agent, Google ADK, modern) — membentuk spektrum government tech dari legacy ke AI-first. MoSCoW menambah framework prioritisasi project management.
 
 ## [2026-06-29] Batch Ingest | Clippings/ → 8 sources
 

@@ -39,6 +39,8 @@ All entity pages — people, organizations, products, and tools.
 - [[ahmadsyafiqkamil/cortex]] — decentralized knowledge base on Sui + Walrus, Sui Overflow 2026
 - [[ahmadsyafiqkamil/data_podes]] — PODES 2024 + IDM village classification pipeline
 - [[ahmadsyafiqkamil/pemilu-dapps]] — decentralized voting dApp (Next.js + Solidity)
+- [[ahmadsyafiqkamil-Chatbot-KJRI-Dubai]] — AI chatbot konsuler KJRI Dubai (Google ADK, MCP Toolbox)
+- [[CV-Syamil-Protkons]] — PROTKONS: sistem manajemen layanan konsuler KBRI Kuala Lumpur (CodeIgniter 3)
 
 ## Products & Tools
 

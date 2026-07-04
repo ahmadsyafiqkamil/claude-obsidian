@@ -103,3 +103,34 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 - [[CodeIgniter 3]] — PHP MVC framework ringan, digunakan di PROTKONS (status: current)
 - [[Consular Service Management]] — pola domain untuk sistem informasi layanan konsuler KBRI/KJRI (status: developing)
 - [[Tanda Tangan Elektronik]] — integrasi TTE untuk penandatanganan dokumen resmi pemerintah (status: developing)
+
+## DeFi & Crypto
+
+- [[Meteora DLMM]] — Dynamic Liquidity Market Maker di Solana (status: developing)
+- [[Meridian AI Agent]] — autonomous AI agent untuk LP di Meteora (status: developing)
+- [[LP Scanner and Range Selection Pattern]] — pola scanner + range selection untuk agent LP (status: current)
+- [[Momentum-Based Token Screening Pattern]] — price change % sebagai core metric screening + dynamic bins sizing (status: current)
+- [[Data Gathering and Expected Value Optimization]] — journaling + EV-based optimization vs win rate trap (status: current)
+
+## Agent Architecture
+
+- [[ReAct Agent Loop]] — Reason → Act → observe → repeat pattern (status: current)
+- [[Hunter-Healer Dual Agent]] — SCREENER (find/deploy) + MANAGER (evaluate/close) (status: current)
+- [[LLM Tool Access Matrix]] — RBAC untuk tool access per agent role (status: current)
+- [[HiveMind Collective Intelligence]] — shared lessons + strategy presets across agents (status: current)
+- [[Strategy Library]] — user-saved LP strategies from tweets → active criteria (status: current)
+- [[Pool Memory Pattern]] — per-pool deploy history + cooldown + win rate gate (status: current)
+- [[DLMM Position Lifecycle]] — deploy → monitor → close → swap → learn (status: current)
+
+## Solana DeFi Strategy
+
+- [[Spot LP Strategy]] — single-side SOL deployment di Meteora DLMM (status: current)
+- [[Momentum-to-Bins Scaling]] — 1h price change → momentum band → bins range (status: current)
+- [[Dynamic Re-entry Cooldown]] — time + momentum based re-entry gate (status: current)
+- [[Trailing Take Profit]] — dynamic exit: trigger +5%, trail −3% drop (status: current)
+- [[Bin Step Screening]] — filter pool by bin_step 80-200 (status: current)
+- [[Bundler Detection]] — anti-manipulation signals (common_funder, funded_window) (status: current)
+- [[Darwin Threshold Evolution]] — self-tuning screening params (status: current)
+- [[Gas Reserve Pattern]] — SOL buffer safety sebelum deploy (status: current)
+- [[Exit Liquidity Risk]] — small MC + large sizing = exit liquidity; sizing vs pool depth (status: current)
+- [[Volatility Execution Gap]] — gap antara sinyal exit dan eksekusi aktual saat high volatility (status: current)

@@ -19,6 +19,30 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-03] ingest | DLMM Bot Lessons Tweet (token screening)
+
+- Source: `.raw/articles/dlmm-bot-lessons-tweet-2026-07-03.md`
+- Source page: [[DLMM-Bot-Lessons-Tweet]] — empat pelajaran dari automated DLMM bot di Solana
+- Concept pages (2): [[Exit Liquidity Risk]] (small cap + large sizing = exit liquidity), [[Volatility Execution Gap]] (gap sinyal TP vs eksekusi aktual saat high volatility)
+- Pages updated (5): [[LP Scanner and Range Selection Pattern]], [[Gas Reserve Pattern]], [[Trailing Take Profit]], [[Momentum-to-Bins Scaling]], [[Bundler Detection]]
+- Key insight: Tweet praktisi anonim — dua root cause yang sama (exit liquidity risk + volatility execution gap) dari screening yang chase sinyal tanpa respect market structure. Turning point bukan dari fitur baru, tapi rethink screening. Complement sempurna untuk Meridian agent knowledge yang sudah ada di vault.
+
+## [2026-07-03] ingest | Meridian Agent Codebase (VPS → .raw/meridian-agent/)
+
+- Sources: 14 source files dari VPS (agent.js, momentum.js, prompt.js, pool-memory.js, tools/*, user-config.json, README.md, CLAUDE.md)
+- Source page: [[meridian-agent-architecture]] — full architecture + config summary
+- Entity pages (2): [[Meridian Agent]] (public product), [[meridian-agent-vps]] (running instance: 354 closed positions, spot strategy, MiniMax-M3)
+- Concept pages (15): [[ReAct Agent Loop]], [[Hunter-Healer Dual Agent]], [[Momentum-to-Bins Scaling]], [[Dynamic Re-entry Cooldown]], [[Darwin Threshold Evolution]], [[Pool Memory Pattern]], [[HiveMind Collective Intelligence]], [[Bundler Detection]], [[Trailing Take Profit]], [[Strategy Library]], [[Gas Reserve Pattern]], [[Bin Step Screening]], [[DLMM Position Lifecycle]], [[LLM Tool Access Matrix]], [[Spot LP Strategy]]
+- Pages updated: [[index]], [[concepts/_index]], [[entities/_index]], [[sources/_index]], [[hot]]
+- Key insight: Full Meridian agent di-import dari VPS production — 14 source files (~16K LOC), 2 entity pages (public + instance), 15 concept pages mencakup architecture (ReAct loop, Hunter-Healer), momentum engine, risk management (trailing TP, gas reserve, bundler detection), dan collective intelligence (HiveMind). Ini adalah living codebase dengan 354 closed positions dan active Darwin evolution.
+
+## [2026-07-03] ingest | NotebookLM → LP Army Bootcamp (Meteora, 25 sources)
+
+- Source: NotebookLM notebook "Strategi Jitu Likuiditas Meteora: Panduan Praktis LP Army Bootcamp" (25 sources: 21 YouTube + 1 GitHub + 2 transcripts)
+- Pages created (5): [[lp-army-bootcamp-meteora]], [[yunus-0x-meridian]], [[LP Army]], [[Meteora DLMM]], [[Meridian AI Agent]]
+- Pages updated (4): [[index]], [[entities/_index]], [[sources/_index]], [[concepts/_index]], [[hot]]
+- Key insight: Meteora DLMM di Solana — ekosistem liquidity provision dengan model Spot/Curve/Bid-Ask. Meridian (yunus-0x, 490 stars) adalah AI agent untuk autonomous LP. LP Army adalah komunitas bootcamp internasional dengan cabang Indonesia (MeteoraIDN).
+
 ## [2026-07-03] ingest | Chatbot KJRI Dubai + PROTKONS + MoSCoW (2) + 3 DL articles
 
 - Sources: 2 GitHub repos (Chatbot-KJRI-Dubai, Protkons) + 2 MoSCoW articles (ProductPlan EN, Glints ID) + 3 Dicoding DL articles (registered, pages already exist)

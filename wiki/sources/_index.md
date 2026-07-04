@@ -36,6 +36,14 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[chatbot-kjri-dubai]] — 2026-07-03 | Ahmad Syafiq Kamil | AI chatbot konsuler KJRI Dubai (Google ADK, MCP Toolbox)
 - [[protkons-consular-management]] — 2026-07-03 | Ahmad Syafiq Kamil | PROTKONS: sistem layanan konsuler KBRI KL (CodeIgniter 3)
 
+## NotebookLM
+
+- [[lp-army-bootcamp-meteora]] — 2026-07-03 | NotebookLM | Strategi likuiditas Meteora, LP Army Bootcamp (25 sources)
+
+## Codebases
+
+- [[meridian-agent-architecture]] — 2026-07-03 | VPS | Full Meridian agent codebase (14 source files, 16K LOC)
+
 ## Articles
 
 - [[pengantar-deep-learning]] — 2026-06-28 | Dicoding Indonesia | sejarah & definisi deep learning
@@ -47,6 +55,10 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[rangkuman-pengenalan-dl]] — 2026-06-29 | Dicoding Indonesia | rangkuman kursus Fundamental DL
 - [[moscow-method-productplan]] — 2026-07-03 | ProductPlan | MoSCoW prioritization glossary (EN)
 - [[moscow-method-glints]] — 2026-07-03 | Glints | MoSCoW method untuk project management (ID)
+
+## Tweets
+
+- [[DLMM-Bot-Lessons-Tweet]] — 2026-07-03 | Tweet | Token screening lessons: exit liquidity risk + volatility execution gap
 
 ## CV / Personal
 

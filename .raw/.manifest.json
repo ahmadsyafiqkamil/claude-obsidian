@@ -22,7 +22,11 @@
         "wiki/entities/jacksteamdev-obsidian-mcp-tools.md",
         "wiki/entities/YuNaga224-obsidian-memory-mcp.md"
       ],
-      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     },
     "raw/CV Tech Ahmad Syafiq.pdf": {
       "hash": null,
@@ -31,25 +35,35 @@
         "wiki/entities/Ahmad-Syafiq-Kamil.md",
         "wiki/sources/cv-variants-ahmad-syafiq.md"
       ],
-      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md"]
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     },
     "raw/CV-Ahmad-Syafiq-ContractManager.pdf": {
       "hash": null,
       "ingested_at": "2026-06-29",
       "pages_created": [],
-      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+      "pages_updated": [
+        "wiki/entities/Ahmad-Syafiq-Kamil.md"
+      ]
     },
     "raw/CV-Ahmad-Syafiq-DevAdvocate.pdf": {
       "hash": null,
       "ingested_at": "2026-06-29",
       "pages_created": [],
-      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+      "pages_updated": [
+        "wiki/entities/Ahmad-Syafiq-Kamil.md"
+      ]
     },
     "raw/CV-Ahmad-Syafiq-v4.pdf": {
       "hash": null,
       "ingested_at": "2026-06-29",
       "pages_created": [],
-      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+      "pages_updated": [
+        "wiki/entities/Ahmad-Syafiq-Kamil.md"
+      ]
     },
     ".raw/clippings/absensi-sistem-kehadiran.md": {
       "hash": "b034c73c05871e07cad9fb4b36f5254e",
@@ -62,7 +76,15 @@
         "wiki/concepts/Export Pipeline DOCX PDF.md",
         "wiki/concepts/Indonesian Government HR System.md"
       ],
-      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md", "wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/entities/_index.md", "wiki/sources/_index.md", "wiki/concepts/_index.md"]
+      "pages_updated": [
+        "wiki/entities/Ahmad-Syafiq-Kamil.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/entities/_index.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/_index.md"
+      ]
     },
     ".raw/clippings/cortex-decentralized-kb.md": {
       "hash": "76cb9c7d0ae63e0257c0129ba3b621d0",
@@ -78,7 +100,9 @@
         "wiki/concepts/Content-Addressed Knowledge Base.md",
         "wiki/concepts/On-Chain Confidence Score.md"
       ],
-      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+      "pages_updated": [
+        "wiki/entities/Ahmad-Syafiq-Kamil.md"
+      ]
     },
     ".raw/clippings/podes-2024-pipeline.md": {
       "hash": "658948387fcdbbe63b659e0bfed214f7",
@@ -90,7 +114,9 @@
         "wiki/concepts/IDM Village Classification.md",
         "wiki/concepts/DBF Data Processing.md"
       ],
-      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+      "pages_updated": [
+        "wiki/entities/Ahmad-Syafiq-Kamil.md"
+      ]
     },
     ".raw/clippings/pemilu-dapps-voting.md": {
       "hash": "7b83be583bd8de8cabec8bf62985ad98",
@@ -102,7 +128,9 @@
         "wiki/concepts/Smart Contract Voting.md",
         "wiki/concepts/RainbowKit Wagmi Web3 Pattern.md"
       ],
-      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md"]
+      "pages_updated": [
+        "wiki/entities/Ahmad-Syafiq-Kamil.md"
+      ]
     },
     ".raw/clippings/pengenalan-cnn-detail.md": {
       "hash": "29a804e20a0662f63323b247e5a05918",
@@ -115,7 +143,10 @@
         "wiki/concepts/Weights Sharing in CNN.md",
         "wiki/concepts/MNIST.md"
       ],
-      "pages_updated": ["wiki/concepts/Convolutional Neural Network.md", "wiki/concepts/Neural Network Layers.md"]
+      "pages_updated": [
+        "wiki/concepts/Convolutional Neural Network.md",
+        "wiki/concepts/Neural Network Layers.md"
+      ]
     },
     ".raw/clippings/pengenalan-rnn-detail.md": {
       "hash": "004a97f591af25753ed10aa997c796e0",
@@ -125,7 +156,10 @@
         "wiki/concepts/RNN Input-Output Types.md",
         "wiki/concepts/Vanilla RNN.md"
       ],
-      "pages_updated": ["wiki/concepts/Recurrent Neural Network.md", "wiki/concepts/Long Short-Term Memory.md"]
+      "pages_updated": [
+        "wiki/concepts/Recurrent Neural Network.md",
+        "wiki/concepts/Long Short-Term Memory.md"
+      ]
     },
     ".raw/clippings/pra-pemrosesan-data-dl.md": {
       "hash": "dcda75ac43a17513cc86272f54cae3d4",
@@ -136,7 +170,9 @@
         "wiki/concepts/Image Augmentation.md",
         "wiki/concepts/Text Tokenization and Padding.md"
       ],
-      "pages_updated": ["wiki/concepts/Deep Learning.md"]
+      "pages_updated": [
+        "wiki/concepts/Deep Learning.md"
+      ]
     },
     ".raw/clippings/rangkuman-pengenalan-dl.md": {
       "hash": "1b91c90aec61f9d9e776f39ac6463514",
@@ -146,7 +182,11 @@
         "wiki/concepts/Forward Propagation.md",
         "wiki/concepts/Backpropagation.md"
       ],
-      "pages_updated": ["wiki/concepts/Deep Learning Architecture.md", "wiki/concepts/Artificial Neural Networks.md", "wiki/entities/Dicoding Indonesia.md"]
+      "pages_updated": [
+        "wiki/concepts/Deep Learning Architecture.md",
+        "wiki/concepts/Artificial Neural Networks.md",
+        "wiki/entities/Dicoding Indonesia.md"
+      ]
     },
     ".raw/clippings/ahmadsyafiqkamilChatbot-KJRI-Dubai.md": {
       "hash": "ac25eecadfc7348470d1156130278fbd",
@@ -158,7 +198,15 @@
         "wiki/concepts/MCP Toolbox.md",
         "wiki/concepts/pgvector Semantic Search.md"
       ],
-      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md", "wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/entities/_index.md", "wiki/sources/_index.md", "wiki/concepts/_index.md"]
+      "pages_updated": [
+        "wiki/entities/Ahmad-Syafiq-Kamil.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/entities/_index.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/_index.md"
+      ]
     },
     ".raw/clippings/CV-SyamilProtkons.md": {
       "hash": "cfd3df5b7643cee817b5d61491ad9a3d",
@@ -170,7 +218,15 @@
         "wiki/concepts/Consular Service Management.md",
         "wiki/concepts/Tanda Tangan Elektronik.md"
       ],
-      "pages_updated": ["wiki/entities/Ahmad-Syafiq-Kamil.md", "wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/entities/_index.md", "wiki/sources/_index.md", "wiki/concepts/_index.md"]
+      "pages_updated": [
+        "wiki/entities/Ahmad-Syafiq-Kamil.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/entities/_index.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/_index.md"
+      ]
     },
     ".raw/clippings/MoSCoW Prioritization  Glossary.md": {
       "hash": "729a9963a436ce2519545e21ef1a02f7",
@@ -179,7 +235,13 @@
         "wiki/sources/moscow-method-productplan.md",
         "wiki/concepts/MoSCoW Prioritization.md"
       ],
-      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/sources/_index.md", "wiki/concepts/_index.md"]
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/_index.md"
+      ]
     },
     ".raw/clippings/Jangan Bingung Pilih Prioritas, Pakai MoSCoW untuk Project Management!.md": {
       "hash": "b378dbbeb193aae9eb150ef2a9fd8615",
@@ -187,7 +249,14 @@
       "pages_created": [
         "wiki/sources/moscow-method-glints.md"
       ],
-      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/sources/_index.md", "wiki/concepts/_index.md", "wiki/concepts/MoSCoW Prioritization.md"]
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/_index.md",
+        "wiki/concepts/MoSCoW Prioritization.md"
+      ]
     },
     ".raw/clippings/Pengantar Deep Learning  Belajar Fundamental Deep Learning.md": {
       "hash": "ffcdcc999944a0990638a67adbd44cbf",
@@ -206,6 +275,77 @@
       "ingested_at": "2026-06-28",
       "pages_created": [],
       "pages_updated": []
+    },
+    "notebooklm://9230c93f-5837-44d2-b8d6-d1dcd55b774c": {
+      "hash": null,
+      "ingested_at": "2026-07-03",
+      "pages_created": [
+        "wiki/sources/lp-army-bootcamp-meteora.md",
+        "wiki/entities/yunus-0x-meridian.md",
+        "wiki/entities/LP-Army.md",
+        "wiki/concepts/Meteora DLMM.md",
+        "wiki/concepts/Meridian AI Agent.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/entities/_index.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/_index.md"
+      ]
+    },
+    ".raw/meridian-agent/": {
+      "hash": null,
+      "ingested_at": "2026-07-03",
+      "pages_created": [
+        "wiki/sources/meridian-agent-architecture.md",
+        "wiki/entities/Meridian Agent.md",
+        "wiki/entities/meridian-agent-vps.md",
+        "wiki/concepts/ReAct Agent Loop.md",
+        "wiki/concepts/Hunter-Healer Dual Agent.md",
+        "wiki/concepts/Momentum-to-Bins Scaling.md",
+        "wiki/concepts/Dynamic Re-entry Cooldown.md",
+        "wiki/concepts/Darwin Threshold Evolution.md",
+        "wiki/concepts/Pool Memory Pattern.md",
+        "wiki/concepts/HiveMind Collective Intelligence.md",
+        "wiki/concepts/Bundler Detection.md",
+        "wiki/concepts/Trailing Take Profit.md",
+        "wiki/concepts/Strategy Library.md",
+        "wiki/concepts/Gas Reserve Pattern.md",
+        "wiki/concepts/Bin Step Screening.md",
+        "wiki/concepts/DLMM Position Lifecycle.md",
+        "wiki/concepts/LLM Tool Access Matrix.md",
+        "wiki/concepts/Spot LP Strategy.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/entities/_index.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/_index.md"
+      ]
+    },
+    ".raw/articles/dlmm-bot-lessons-tweet-2026-07-03.md": {
+      "hash": "c7292b18c669d9a9bae31da1451f065f",
+      "ingested_at": "2026-07-03",
+      "pages_created": [
+        "wiki/sources/DLMM-Bot-Lessons-Tweet.md",
+        "wiki/concepts/Exit Liquidity Risk.md",
+        "wiki/concepts/Volatility Execution Gap.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/LP Scanner and Range Selection Pattern.md",
+        "wiki/concepts/Gas Reserve Pattern.md",
+        "wiki/concepts/Trailing Take Profit.md",
+        "wiki/concepts/Momentum-to-Bins Scaling.md",
+        "wiki/concepts/Bundler Detection.md"
+      ]
     }
   },
   "address_map": {

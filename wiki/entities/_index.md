@@ -41,6 +41,10 @@ All entity pages — people, organizations, products, and tools.
 - [[ahmadsyafiqkamil/pemilu-dapps]] — decentralized voting dApp (Next.js + Solidity)
 - [[ahmadsyafiqkamil-Chatbot-KJRI-Dubai]] — AI chatbot konsuler KJRI Dubai (Google ADK, MCP Toolbox)
 - [[CV-Syamil-Protkons]] — PROTKONS: sistem manajemen layanan konsuler KBRI Kuala Lumpur (CodeIgniter 3)
+- [[yunus-0x-meridian]] — AI-powered LP agent untuk Meteora DLMM (490 stars)
+- [[LP Army]] — komunitas bootcamp liquidity provision di Meteora, Solana
+- [[Meridian Agent]] — autonomous DLMM liquidity agent untuk Solana (490+ stars)
+- [[meridian-agent-vps]] — running instance VPS user (354 closed positions, spot strategy)
 
 ## Products & Tools
 

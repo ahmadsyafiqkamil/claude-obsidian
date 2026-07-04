@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-04-07
+updated: 2026-07-03
 tags:
   - meta
   - index
@@ -19,11 +19,14 @@ related:
   - "[[Hot Cache]]"
   - "[[Compounding Knowledge]]"
   - "[[Andrej Karpathy]]"
+  - "[[Exit Liquidity Risk]]"
+  - "[[Volatility Execution Gap]]"
+  - "[[DLMM-Bot-Lessons-Tweet]]"
 ---
 
 # Wiki Index
 
-Last updated: 2026-07-03 | Total pages: 97 | Sources ingested: 21
+Last updated: 2026-07-03 | Total pages: ~123 | Sources ingested: 24
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -90,6 +93,28 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[CodeIgniter 3]] — PHP MVC framework ringan, digunakan di PROTKONS (status: current)
 - [[Consular Service Management]] — pola domain sistem informasi layanan konsuler KBRI/KJRI (status: developing)
 - [[Tanda Tangan Elektronik]] — integrasi TTE untuk dokumen resmi pemerintah (status: developing)
+- [[Meteora DLMM]] — Dynamic Liquidity Market Maker di Solana, model Spot/Curve/Bid-Ask (status: developing)
+- [[Meridian AI Agent]] — autonomous AI agent untuk LP automation di Meteora (status: developing)
+- [[LP Scanner and Range Selection Pattern]] — scanner filter + single-down range selection untuk agent LP (status: current)
+- [[Momentum-Based Token Screening Pattern]] — price change % sebagai core metric + dynamic re-entry cooldown + bins sizing (status: current)
+- [[Data Gathering and Expected Value Optimization]] — journaling + EV-based optimization vs win rate trap (status: current)
+- [[ReAct Agent Loop]] — Reason → Act → observe → repeat untuk autonomous agent (status: current)
+- [[Hunter-Healer Dual Agent]] — SCREENER (find/deploy) + MANAGER (evaluate/close) (status: current)
+- [[Momentum-to-Bins Scaling]] — 1h price change → momentum band → bins range (status: current)
+- [[Dynamic Re-entry Cooldown]] — time + momentum based re-entry gate (status: current)
+- [[Darwin Threshold Evolution]] — auto-tuning screening params dari closed performance (status: current)
+- [[Pool Memory Pattern]] — per-pool deploy history + cooldown + win rate gate (status: current)
+- [[HiveMind Collective Intelligence]] — shared lessons + strategy presets across agents (status: current)
+- [[Bundler Detection]] — anti-manipulation signals (common_funder, funded_window) (status: current)
+- [[Trailing Take Profit]] — dynamic exit: trigger +5%, trail −3% from high (status: current)
+- [[Strategy Library]] — user-saved LP strategies from tweets → active screening (status: current)
+- [[Gas Reserve Pattern]] — SOL buffer safety sebelum autonomous deploy (status: current)
+- [[Bin Step Screening]] — filter Meteora pool by bin_step 80-200 (status: current)
+- [[DLMM Position Lifecycle]] — deploy → monitor → close → swap → learn (status: current)
+- [[LLM Tool Access Matrix]] — RBAC tool access per agent role (SCREENER/MANAGER/GENERAL) (status: current)
+- [[Spot LP Strategy]] — single-side SOL deployment strategy di Meteora DLMM (status: current)
+- [[Exit Liquidity Risk]] — small market cap + large LP sizing = jadi exit liquidity; sizing vs depth (status: current)
+- [[Volatility Execution Gap]] — gap antara harga sinyal exit dan eksekusi aktual diperburuk volatilitas (status: current)
 
 ---
 
@@ -115,6 +140,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[ahmadsyafiqkamil/pemilu-dapps]] — decentralized voting dApp (Next.js + Solidity) (status: developing)
 - [[ahmadsyafiqkamil-Chatbot-KJRI-Dubai]] — AI chatbot konsuler KJRI Dubai (Google ADK, MCP Toolbox, pgvector) (status: current)
 - [[CV-Syamil-Protkons]] — PROTKONS: sistem manajemen layanan konsuler KBRI KL (CodeIgniter 3, PHP) (status: current)
+- [[yunus-0x-meridian]] — AI-powered LP agent untuk Meteora DLMM, 490 stars (status: current)
+- [[LP Army]] — komunitas bootcamp liquidity provision di Meteora, Solana (status: current)
+- [[Meridian Agent]] — autonomous DLMM liquidity agent, 490+ GitHub stars (status: current)
+- [[meridian-agent-vps]] — running instance VPS: 354 closed positions, spot strategy (status: current)
 
 ---
 
@@ -137,6 +166,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[moscow-method-glints]] — 2026-07-03 | Glints | MoSCoW method project management (ID)
 - [[chatbot-kjri-dubai]] — 2026-07-03 | Ahmad Syafiq Kamil | AI chatbot KJRI Dubai (Google ADK)
 - [[protkons-consular-management]] — 2026-07-03 | Ahmad Syafiq Kamil | PROTKONS KBRI KL (CodeIgniter 3)
+- [[lp-army-bootcamp-meteora]] — 2026-07-03 | NotebookLM | Meteora LP Army Bootcamp (25 sources)
+- [[meridian-agent-architecture]] — 2026-07-03 | VPS | Full Meridian agent codebase (14 source files, ~16K LOC)
+- [[DLMM-Bot-Lessons-Tweet]] — 2026-07-03 | Tweet | Token screening lessons: exit liquidity risk + volatility execution gap
 
 ---
 

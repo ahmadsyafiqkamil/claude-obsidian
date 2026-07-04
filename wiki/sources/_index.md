@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Sources Index"
-updated: 2026-04-07
+updated: 2026-07-05
 tags:
   - meta
   - index
@@ -12,6 +12,7 @@ related:
   - "[[log]]"
   - "[[entities/_index]]"
   - "[[Andrej Karpathy]]"
+  - "[[Research: Consular Service Management]]"
 ---
 
 # Sources Index
@@ -67,6 +68,13 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 ## Research
 
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research | 16+ repos analyzed
+- [[vienna-convention-consular-relations]] — 2026-07-05 | Wikipedia | Article 5 service catalogue (1963 treaty)
+- [[estonia-e-residency]] — 2026-07-05 | Wikipedia | PKI smart-card sovereign identity (2014)
+- [[singapore-ica-model]] — 2026-07-05 | Wikipedia | Integrated immigration/passport/NRIC agency
+- [[e-government-frameworks]] — 2026-07-05 | Wikipedia | UN EGDI 4-stage G2C workflow
+- [[digital-identity-patterns]] — 2026-07-05 | Wikipedia | Issuance/auth/verification functions
+- [[indonesian-passport-biometric]] — 2026-07-05 | Wikipedia | Polycarbonate biometric 2023
+- [[law-of-indonesia-overview]] — 2026-07-05 | Wikipedia | Indonesian legal hierarchy + flagged gaps
 
 ---
 

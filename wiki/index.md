@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-07-03
+updated: 2026-07-05
 tags:
   - meta
   - index
@@ -22,11 +22,12 @@ related:
   - "[[Exit Liquidity Risk]]"
   - "[[Volatility Execution Gap]]"
   - "[[DLMM-Bot-Lessons-Tweet]]"
+  - "[[Research: Consular Service Management]]"
 ---
 
 # Wiki Index
 
-Last updated: 2026-07-03 | Total pages: ~123 | Sources ingested: 24
+Last updated: 2026-07-05 | Total pages: ~165 | Sources ingested: 31
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -93,6 +94,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[CodeIgniter 3]] — PHP MVC framework ringan, digunakan di PROTKONS (status: current)
 - [[Consular Service Management]] — pola domain sistem informasi layanan konsuler KBRI/KJRI (status: developing)
 - [[Tanda Tangan Elektronik]] — integrasi TTE untuk dokumen resmi pemerintah (status: developing)
+- [[Vienna Convention Consular Functions]] — Article 5 service catalogue untuk consular services (status: developing)
+- [[Estonian E-Residency Pattern]] — PKI-based portable digital identity benchmark (status: developing)
+- [[Singapore ICA Model]] — integrated agency model Singapore (visa+passport+NRIC) (status: developing)
+- [[Passport vs Consular Boundary]] — batas arsitektural KBRI/KJRI (konsuler) vs Imigrasi (paspor) (status: developing)
 - [[Meteora DLMM]] — Dynamic Liquidity Market Maker di Solana, model Spot/Curve/Bid-Ask (status: developing)
 - [[Meridian AI Agent]] — autonomous AI agent untuk LP automation di Meteora (status: developing)
 - [[LP Scanner and Range Selection Pattern]] — scanner filter + single-down range selection untuk agent LP (status: current)
@@ -169,12 +174,20 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[lp-army-bootcamp-meteora]] — 2026-07-03 | NotebookLM | Meteora LP Army Bootcamp (25 sources)
 - [[meridian-agent-architecture]] — 2026-07-03 | VPS | Full Meridian agent codebase (14 source files, ~16K LOC)
 - [[DLMM-Bot-Lessons-Tweet]] — 2026-07-03 | Tweet | Token screening lessons: exit liquidity risk + volatility execution gap
+- [[vienna-convention-consular-relations]] — 2026-07-05 | Wikipedia | Article 5 service catalogue (1963 treaty)
+- [[estonia-e-residency]] — 2026-07-05 | Wikipedia | PKI smart-card sovereign identity (2014)
+- [[singapore-ica-model]] — 2026-07-05 | Wikipedia | Integrated immigration/passport/NRIC agency
+- [[e-government-frameworks]] — 2026-07-05 | Wikipedia | UN EGDI 4-stage G2C workflow
+- [[digital-identity-patterns]] — 2026-07-05 | Wikipedia | Issuance/auth/verification functions
+- [[indonesian-passport-biometric]] — 2026-07-05 | Wikipedia | Polycarbonate biometric 2023
+- [[law-of-indonesia-overview]] — 2026-07-05 | Wikipedia | Indonesian legal hierarchy + flagged gaps
 
 ---
 
 ## Questions
 
 - [[How does the LLM Wiki pattern work]] — how the pattern works and why it outperforms RAG at human scale (status: developing)
+- [[Research: Consular Service Management]] — 2026-07-05 autoresearch synthesis: 5 key findings, 4 new concepts (status: developing)
 
 ---
 

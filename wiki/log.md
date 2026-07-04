@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-07-03
+updated: 2026-07-05
 tags:
   - meta
   - log
@@ -11,6 +11,7 @@ related:
   - "[[hot]]"
   - "[[overview]]"
   - "[[sources/_index]]"
+  - "[[Research: Consular Service Management]]"
 ---
 
 # Operation Log
@@ -18,6 +19,16 @@ related:
 Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
+
+## [2026-07-05] autoresearch | Consular Service Management
+
+- Rounds: 3 (broad → gap-fill → synthesis check)
+- Sources fetched: 7 web (Wikipedia) + 2 internal repos = 9 total
+- Pages created: 7 source pages ([[vienna-convention-consular-relations]], [[estonia-e-residency]], [[singapore-ica-model]], [[e-government-frameworks]], [[digital-identity-patterns]], [[indonesian-passport-biometric]], [[law-of-indonesia-overview]]) + 4 concept pages ([[Vienna Convention Consular Functions]], [[Estonian E-Residency Pattern]], [[Singapore ICA Model]], [[Passport vs Consular Boundary]]) + 1 synthesis ([[Research: Consular Service Management]])
+- Pages updated: [[Consular Service Management]] (extended with abstraction layers + e-gov stage mapping + gap analysis), [[index]], [[concepts/_index]], [[sources/_index]], [[hot]]
+- Topic selection: boundary-first from frontier-score (Consular Service Management had score 3.74, in_degree 0 — clear synthesis gap)
+- Methodology notes: Round 2 (gap-fill) failed on Indonesia-specific regulatory sources — all 4 Wikipedia URLs returned "article does not exist" for UU ITE/TTE/INSW (candidate titles were guesses, not actual Wikipedia article titles). Round 3 (synthesis check) recovered by finding correct article title "Indonesian passport" via Wikipedia search → confirmed Dirjen Imigrasi as passport issuer. Result: 5 key findings, 4 open questions documented for next research cycle
+- Key finding: Article 5 Vienna Convention 1963 adalah yurisdiksi universal consular services — implementasinya di KBRI/KJRI (PROTKONS workflow) adalah subset. Stack Chatbot KJRI Dubai + PROTKONS menutupi semua 4 tahap UN EGDI G2C workflow (information → interaction → transaction → integration). Gap struktural: (1) tidak ada PKI smart-card portable untuk TTE, (2) tidak ada integrated agency model seperti Singapore ICA, (3) Permenlu/UU 1/1982 spesifik tidak terverifikasi dari primary source
 
 ## [2026-07-03] ingest | DLMM Bot Lessons Tweet (token screening)
 

@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-07-03
+updated: 2026-07-05
 tags:
   - meta
   - hot-cache
@@ -12,6 +12,7 @@ related:
   - "[[Wiki Map]]"
   - "[[getting-started]]"
   - "[[DragonScale Memory]]"
+  - "[[Research: Consular Service Management]]"
 ---
 
 # Recent Context
@@ -20,7 +21,7 @@ Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
 
-2026-07-03 (evening): **Meridian bot profit tune APPLIED** — what-if EV analysis pada 354 posisi mengungkap tail killer: 14 loss <-4% menyumbang -253.6% dari total -153%, dan 4 terburuk keluar via OOR-30m timeout (avgL -32%), bukan SL. 7 nilai config diubah di VPS ([[meridian-agent-vps]]): deployAmountSol 0.3→0.1, outOfRangeWaitMinutes 45→20, stopLossPct -8→-4, emergencyPriceDropPct -10→-6, trailing 5/3→6/2, minFeeActiveTvlRatio 0.1→0.05, momentumEntryMinH1Pct 5→3. Bot direstart via pm2, verified (`Computed deploy amount: 0.1 SOL`). Proyeksi EV: -0.43% → ≥+0.1%/posisi. Detail lengkap + follow-up kode: [[dlmm-bot-audit-context-2026-07-03]].
+2026-07-05: **autoresearch | Consular Service Management — 12 halaman baru + 1 update** — loop 3-round (broad → gap-fill → synthesis check). Topic dipilih dari boundary-score frontier (score 3.74, in_degree 0). Halaman baru: 7 source ([[vienna-convention-consular-relations]], [[estonia-e-residency]], [[singapore-ica-model]], [[e-government-frameworks]], [[digital-identity-patterns]], [[indonesian-passport-biometric]], [[law-of-indonesia-overview]]), 4 concept ([[Vienna Convention Consular Functions]], [[Estonian E-Residency Pattern]], [[Singapore ICA Model]], [[Passport vs Consular Boundary]]), 1 synthesis ([[Research: Consular Service Management]]). Update: [[Consular Service Management]] diperluas dengan abstraction layers + UN EGDI 4-stage mapping + gap analysis. Total vault: ~165 halaman, 31 sources. Round 2 gagal di Wikipedia Indonesia regulatory (4/4 URL "article does not exist"); Round 3 recover via search → Indonesian passport → konfirmasi Dirjen Imigrasi. 5 key finding + 5 open question documented untuk next research cycle.
 
 2026-07-03: **Ingest Tweet: DLMM Bot Lessons — token screening** — 3 halaman baru: 1 source page ([[DLMM-Bot-Lessons-Tweet]]), 2 concept pages ([[Exit Liquidity Risk]], [[Volatility Execution Gap]]). 5 existing concept pages diupdate cross-ref. Tweet dari praktisi anonim tentang pelajaran termahal dari automated DLMM bot: exit liquidity risk (small cap + large sizing) + volatility execution gap (sinyal TP vs realisasi). Total pages: ~123. Sources ingested: 24.
 

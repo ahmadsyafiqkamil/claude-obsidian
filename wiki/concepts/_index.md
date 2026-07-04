@@ -103,6 +103,10 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 - [[CodeIgniter 3]] — PHP MVC framework ringan, digunakan di PROTKONS (status: current)
 - [[Consular Service Management]] — pola domain untuk sistem informasi layanan konsuler KBRI/KJRI (status: developing)
 - [[Tanda Tangan Elektronik]] — integrasi TTE untuk penandatanganan dokumen resmi pemerintah (status: developing)
+- [[Vienna Convention Consular Functions]] — Article 5 Vienna Convention 1963, service catalogue + exclusion list (status: developing)
+- [[Estonian E-Residency Pattern]] — PKI smart-card sovereign identity benchmark dari Estonia 2014 (status: developing)
+- [[Singapore ICA Model]] — integrated agency Singapore (Immigration+Passport+NRIC) (status: developing)
+- [[Passport vs Consular Boundary]] — batas arsitektural KBRI/KJRI vs Dirjen Imigrasi vs Dukcapil (status: developing)
 
 ## DeFi & Crypto
 

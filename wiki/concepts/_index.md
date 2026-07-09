@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Concepts Index"
-updated: 2026-04-07
+updated: 2026-07-10
 tags:
   - meta
   - index
@@ -15,9 +15,8 @@ related:
   - "[[Hot Cache]]"
   - "[[LLM Wiki Pattern]]"
   - "[[Compounding Knowledge]]"
-  - "[[LLM Wiki Pattern]]"
-  - "[[Hot Cache]]"
-  - "[[Compounding Knowledge]]"
+  - "[[GMGN Red-Flag Screening]]"
+  - "[[Compound Engineering Loop]]"
 ---
 
 # Concepts Index
@@ -116,6 +115,18 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 - [[Momentum-Based Token Screening Pattern]] — price change % sebagai core metric screening + dynamic bins sizing (status: current)
 - [[Data Gathering and Expected Value Optimization]] — journaling + EV-based optimization vs win rate trap (status: current)
 
+- [[Exit Liquidity Risk]] — small MC + large sizing = exit liquidity; sizing vs pool depth (status: current)
+- [[Volatility Execution Gap]] — gap antara sinyal exit dan eksekusi aktual saat high volatility (status: current)
+
+## Token Screening
+
+- [[GMGN Red-Flag Screening]] — 7 metric screening kuantitatif via GMGN (top 10, dev, insiders, phishing, bundling, liquidity, rug history) (status: current)
+- [[Solana Memecoin Taxonomy]] — klasifikasi 6 kategori memecoin "no-go" (political, celebrity, justice, animal, DEV/BAGS) (status: current)
+- [[CTO Coin Exploitation]] — Community Takeover coins sebagai vektor eksploitasi via creator fees (status: current)
+- [[Vampire Coin Risk]] — koin yang mengekstrak likuiditas dari main runner (vampire fangs di GMGN) (status: current)
+- [[Virus Clusters Bubblemaps]] — pola wallet cluster adenovirus di Bubblemaps, indikasi insider accumulation (status: current)
+- [[Pumpfun Offchain Coin Risk]] — dead coin Pumpfun dengan creator ≠ minter, di-revive untuk kriminal (status: current)
+
 ## Agent Architecture
 
 - [[ReAct Agent Loop]] — Reason → Act → observe → repeat pattern (status: current)
@@ -125,6 +136,15 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 - [[Strategy Library]] — user-saved LP strategies from tweets → active criteria (status: current)
 - [[Pool Memory Pattern]] — per-pool deploy history + cooldown + win rate gate (status: current)
 - [[DLMM Position Lifecycle]] — deploy → monitor → close → swap → learn (status: current)
+
+- [[DLMM Position Lifecycle]] — deploy → monitor → close → swap → learn (status: current)
+
+## Agent Infrastructure
+
+- [[Basecamp Mention Agent]] — autonomous agent polling Basecamp setiap 30s via systemd timer + dispatch Claude Code (status: current)
+- [[Compound Engineering Loop]] — Brainstorm → Plan → Work → Review → Compound → PR; satu human checkpoint (status: current)
+- [[Claude Code Headless Agent]] — pola menjalankan claude -p tanpa interactive approval di production (status: current)
+- [[systemd User Timer Agent]] — trigger mekanisme zero-dependency via systemd user timer + enable-linger (status: current)
 
 ## Solana DeFi Strategy
 

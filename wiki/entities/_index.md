@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Entities Index"
-updated: 2026-04-07
+updated: 2026-07-10
 tags:
   - meta
   - index
@@ -12,6 +12,8 @@ related:
   - "[[Andrej Karpathy]]"
   - "[[hot]]"
   - "[[LLM Wiki Pattern]]"
+  - "[[@EvilPanda]]"
+  - "[[aidyasadhakim]]"
 ---
 
 # Entities Index
@@ -25,6 +27,8 @@ All entity pages — people, organizations, products, and tools.
 ## People
 
 - [[Andrej Karpathy]] — AI researcher, educator; originated the LLM Wiki pattern
+- [[@EvilPanda]] — praktisi DLMM Solana, creator 8-heuristik token screening untuk SOL-sided positions
+- [[aidyasadhakim]] — developer, blueprint Software Factory Agent (Basecamp + Claude Code autonomous engineering)
 
 ---
 

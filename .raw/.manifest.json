@@ -346,9 +346,65 @@
         "wiki/concepts/Momentum-to-Bins Scaling.md",
         "wiki/concepts/Bundler Detection.md"
       ]
+    },
+    ".raw/clippings/Coins to Avoid doing SOL Sided DLMM (Updated Feb 2026).md": {
+      "hash": "df0e1d639cdc2ff46ed2e7eeda822670",
+      "ingested_at": "2026-07-10",
+      "pages_created": [
+        "wiki/sources/DLMM-Coin-Screening-EvilPanda.md",
+        "wiki/entities/@EvilPanda.md",
+        "wiki/concepts/GMGN Red-Flag Screening.md",
+        "wiki/concepts/CTO Coin Exploitation.md",
+        "wiki/concepts/Vampire Coin Risk.md",
+        "wiki/concepts/Virus Clusters Bubblemaps.md",
+        "wiki/concepts/Pumpfun Offchain Coin Risk.md",
+        "wiki/concepts/Solana Memecoin Taxonomy.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/entities/_index.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/_index.md"
+      ]
+    },
+    ".raw/clippings/Software Factory Agent Instruction.md": {
+      "hash": "fae6139af8b57fbb11194b493cb9a73e",
+      "ingested_at": "2026-07-10",
+      "pages_created": [
+        "wiki/sources/Basecamp-Mention-Agent.md",
+        "wiki/entities/aidityasadhakim.md",
+        "wiki/concepts/Basecamp Mention Agent.md",
+        "wiki/concepts/Compound Engineering Loop.md",
+        "wiki/concepts/Claude Code Headless Agent.md",
+        "wiki/concepts/systemd User Timer Agent.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/entities/_index.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/_index.md"
+      ]
     }
   },
   "address_map": {
-    "wiki/concepts/DragonScale Memory.md": "c-000001"
+    "wiki/concepts/DragonScale Memory.md": "c-000001",
+    "wiki/sources/DLMM-Coin-Screening-EvilPanda.md": "c-000003",
+    "wiki/entities/@EvilPanda.md": "c-000004",
+    "wiki/concepts/GMGN Red-Flag Screening.md": "c-000005",
+    "wiki/concepts/CTO Coin Exploitation.md": "c-000006",
+    "wiki/concepts/Vampire Coin Risk.md": "c-000007",
+    "wiki/concepts/Virus Clusters Bubblemaps.md": "c-000008",
+    "wiki/concepts/Pumpfun Offchain Coin Risk.md": "c-000009",
+    "wiki/concepts/Solana Memecoin Taxonomy.md": "c-000010",
+    "wiki/sources/Basecamp-Mention-Agent.md": "c-000011",
+    "wiki/entities/aidityasadhakim.md": "c-000012",
+    "wiki/concepts/Basecamp Mention Agent.md": "c-000013",
+    "wiki/concepts/Compound Engineering Loop.md": "c-000014",
+    "wiki/concepts/Claude Code Headless Agent.md": "c-000015",
+    "wiki/concepts/systemd User Timer Agent.md": "c-000016"
   }
 }

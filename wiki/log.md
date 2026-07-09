@@ -20,6 +20,15 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-10] ingest | DLMM Coin Screening (EvilPanda) + Software Factory Agent
+
+- Sources: 2 (X/Twitter thread + GitHub Gist)
+- Source pages (2): [[DLMM-Coin-Screening-EvilPanda]] (8 heuristik screening koin DLMM), [[Basecamp-Mention-Agent]] (Basecamp + Claude Code autonomous engineering agent)
+- Entity pages (2): [[@EvilPanda]] (praktisi DLMM Solana), [[aidyasadhakim]] (developer, blueprint Software Factory Agent)
+- Concept pages (10): [[GMGN Red-Flag Screening]], [[CTO Coin Exploitation]], [[Vampire Coin Risk]], [[Virus Clusters Bubblemaps]], [[Pumpfun Offchain Coin Risk]], [[Solana Memecoin Taxonomy]], [[Basecamp Mention Agent]], [[Compound Engineering Loop]], [[Claude Code Headless Agent]], [[systemd User Timer Agent]]
+- Pages updated: [[index]], [[concepts/_index]], [[entities/_index]], [[sources/_index]], [[hot]]
+- Key insight: Dua domain baru masuk vault — token screening quant (6 konsep melengkapi Solana DeFi Strategy cluster yang sudah ada) dan agent infrastructure (4 konsep blueprint autonomous engineering agent). Total vault: ~179 halaman, 33 sources.
+
 ## [2026-07-05] autoresearch | Consular Service Management
 
 - Rounds: 3 (broad → gap-fill → synthesis check)

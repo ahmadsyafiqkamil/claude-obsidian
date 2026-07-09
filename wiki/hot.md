@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-07-05
+updated: 2026-07-10
 tags:
   - meta
   - hot-cache
@@ -20,6 +20,8 @@ related:
 Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
+
+2026-07-10: **ingest | DLMM Coin Screening (EvilPanda) + Software Factory Agent — 14 halaman baru** — 2 source baru dari Clippings/: [[DLMM-Coin-Screening-EvilPanda]] (8 heuristik screening koin DLMM oleh @EvilPanda: GMGN metrics, CTO exploitation, vampire coins, virus clusters, pumpfun offchain) dan [[Basecamp-Mention-Agent]] (blueprint autonomous engineering agent: Basecamp polling → Claude Code dispatch → compound engineering loop → PR). 2 entity pages ([[@EvilPanda]], [[aidyasadhakim]]), 10 concept pages (6 token screening: GMGN Red-Flag, CTO Exploitation, Vampire Coin, Virus Clusters, Pumpfun Offchain, Memecoin Taxonomy + 4 agent infrastructure: Basecamp Mention Agent, Compound Engineering Loop, Claude Code Headless, systemd User Timer). Total vault: ~179 halaman, 33 sources.
 
 2026-07-05: **autoresearch | Consular Service Management — 12 halaman baru + 1 update** — loop 3-round (broad → gap-fill → synthesis check). Topic dipilih dari boundary-score frontier (score 3.74, in_degree 0). Halaman baru: 7 source ([[vienna-convention-consular-relations]], [[estonia-e-residency]], [[singapore-ica-model]], [[e-government-frameworks]], [[digital-identity-patterns]], [[indonesian-passport-biometric]], [[law-of-indonesia-overview]]), 4 concept ([[Vienna Convention Consular Functions]], [[Estonian E-Residency Pattern]], [[Singapore ICA Model]], [[Passport vs Consular Boundary]]), 1 synthesis ([[Research: Consular Service Management]]). Update: [[Consular Service Management]] diperluas dengan abstraction layers + UN EGDI 4-stage mapping + gap analysis. Total vault: ~165 halaman, 31 sources. Round 2 gagal di Wikipedia Indonesia regulatory (4/4 URL "article does not exist"); Round 3 recover via search → Indonesian passport → konfirmasi Dirjen Imigrasi. 5 key finding + 5 open question documented untuk next research cycle.
 

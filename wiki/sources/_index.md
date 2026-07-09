@@ -60,6 +60,7 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 ## Tweets
 
 - [[DLMM-Bot-Lessons-Tweet]] — 2026-07-03 | Tweet | Token screening lessons: exit liquidity risk + volatility execution gap
+- [[DLMM-Coin-Screening-EvilPanda]] — 2026-07-10 | X/Twitter | @EvilPanda 8 heuristik screening koin DLMM (GMGN metrics, CTO, vampire, virus clusters)
 
 ## CV / Personal
 
@@ -75,6 +76,12 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[digital-identity-patterns]] — 2026-07-05 | Wikipedia | Issuance/auth/verification functions
 - [[indonesian-passport-biometric]] — 2026-07-05 | Wikipedia | Polycarbonate biometric 2023
 - [[law-of-indonesia-overview]] — 2026-07-05 | Wikipedia | Indonesian legal hierarchy + flagged gaps
+
+---
+
+## Gists
+
+- [[Basecamp-Mention-Agent]] — 2026-07-10 | GitHub Gist | aidityasadhakim | Basecamp + Claude Code autonomous engineering agent blueprint
 
 ---
 

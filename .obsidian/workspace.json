@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "40832e3e3e3744c3",
+        "id": "58e4fc646fc417d0",
         "type": "tabs",
         "children": [
           {
-            "id": "90e25229d38a6bd2",
+            "id": "69e9227a5505674e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "right": {
     "id": "7092b65be1e76349",
@@ -184,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,41 +203,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90e25229d38a6bd2",
+  "active": "69e9227a5505674e",
   "lastOpenFiles": [
-    "wiki/hot.md",
-    "wiki/meta/dlmm-bot-audit-context-2026-07-03.md",
+    "wiki/concepts/systemd User Timer Agent.md",
+    "wiki/concepts/Claude Code Headless Agent.md",
+    "wiki/concepts/Compound Engineering Loop.md",
+    "wiki/concepts/Basecamp Mention Agent.md",
+    "wiki/entities/aidityasadhakim.md",
+    "wiki/sources/Basecamp-Mention-Agent.md",
+    "wiki/concepts/Solana Memecoin Taxonomy.md",
+    "wiki/concepts/Pumpfun Offchain Coin Risk.md",
+    "wiki/concepts/Virus Clusters Bubblemaps.md",
+    "wiki/concepts/Vampire Coin Risk.md",
+    "wiki/concepts/CTO Coin Exploitation.md",
+    "wiki/concepts/GMGN Red-Flag Screening.md",
+    "wiki/entities/@EvilPanda.md",
+    "wiki/sources/DLMM-Coin-Screening-EvilPanda.md",
+    "Clippings/Coins to Avoid doing SOL Sided DLMM (Updated Feb 2026).md",
+    "Clippings/Software Factory Agent Instruction.md",
+    "wiki/concepts/Weights Sharing in CNN.md",
+    "wiki/concepts/Estonian E-Residency Pattern.md",
+    "wiki/concepts/Consular Service Management.md",
+    "skills/autoresearch/references/session-gotchas.md",
+    "skills/autoresearch/references/program.md",
+    "wiki/sources/vienna-convention-consular-relations.md",
+    "wiki/sources/singapore-ica-model.md",
+    "wiki/sources/law-of-indonesia-overview.md",
+    "wiki/sources/indonesian-passport-biometric.md",
+    "wiki/sources/estonia-e-residency.md",
     "cv-ahmad-syafiq-kamil-web3.pdf",
     "cv-ahmad-syafiq-kamil-web3.html",
     "cover-letter-perle.pdf",
     "cover-letter-perle.html",
     "cv-ahmad-syafiq-kamil-perle.pdf",
     "cv-ahmad-syafiq-kamil-perle.html",
-    "wiki/concepts/Dynamic Re-entry Cooldown.md",
-    "wiki/index.md",
-    "wiki/log.md",
-    "wiki/overview.md",
     "wiki/Wiki Map.canvas",
-    "wiki/concepts/Bin Step Screening.md",
-    "wiki/concepts/LP Scanner and Range Selection Pattern.md",
-    "wiki/concepts/Spot LP Strategy.md",
-    "wiki/concepts/LLM Tool Access Matrix.md",
-    "wiki/concepts/DLMM Position Lifecycle.md",
-    "wiki/concepts/Gas Reserve Pattern.md",
-    "wiki/concepts/Strategy Library.md",
-    "wiki/concepts/Trailing Take Profit.md",
-    "wiki/concepts/Bundler Detection.md",
-    "wiki/concepts/HiveMind Collective Intelligence.md",
-    "wiki/concepts/Pool Memory Pattern.md",
-    "wiki/concepts/Darwin Threshold Evolution.md",
-    "wiki/concepts/Momentum-to-Bins Scaling.md",
-    "wiki/concepts/Hunter-Healer Dual Agent.md",
-    "wiki/concepts/ReAct Agent Loop.md",
-    "wiki/entities/meridian-agent-vps.md",
-    "wiki/entities/Meridian Agent.md",
-    "wiki/sources/meridian-agent-architecture.md",
-    "wiki/concepts/Data Gathering and Expected Value Optimization.md",
-    "wiki/concepts/Momentum-Based Token Screening Pattern.md",
     "opencode.json",
     "wiki/index.md.tmp.98916.b5da22dd7f65",
     "Untitled 1.base",

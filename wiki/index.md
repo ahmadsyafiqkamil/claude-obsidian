@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-07-05
+updated: 2026-07-10
 tags:
   - meta
   - index
@@ -19,15 +19,15 @@ related:
   - "[[Hot Cache]]"
   - "[[Compounding Knowledge]]"
   - "[[Andrej Karpathy]]"
-  - "[[Exit Liquidity Risk]]"
-  - "[[Volatility Execution Gap]]"
-  - "[[DLMM-Bot-Lessons-Tweet]]"
-  - "[[Research: Consular Service Management]]"
+  - "[[GMGN Red-Flag Screening]]"
+  - "[[Compound Engineering Loop]]"
+  - "[[Basecamp Mention Agent]]"
+  - "[[DLMM-Coin-Screening-EvilPanda]]"
 ---
 
 # Wiki Index
 
-Last updated: 2026-07-05 | Total pages: ~165 | Sources ingested: 31
+Last updated: 2026-07-10 | Total pages: ~179 | Sources ingested: 33
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -120,6 +120,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Spot LP Strategy]] — single-side SOL deployment strategy di Meteora DLMM (status: current)
 - [[Exit Liquidity Risk]] — small market cap + large LP sizing = jadi exit liquidity; sizing vs depth (status: current)
 - [[Volatility Execution Gap]] — gap antara harga sinyal exit dan eksekusi aktual diperburuk volatilitas (status: current)
+- [[GMGN Red-Flag Screening]] — 7 metric screening kuantitatif via GMGN (top 10, dev, insiders, phishing, bundling) (status: current)
+- [[CTO Coin Exploitation]] — Community Takeover coins sebagai vektor eksploitasi creator fees (status: current)
+- [[Vampire Coin Risk]] — koin yang mengekstrak likuiditas dari main runner (vampire fangs) (status: current)
+- [[Virus Clusters Bubblemaps]] — pola wallet cluster adenovirus di Bubblemaps, insider signal (status: current)
+- [[Pumpfun Offchain Coin Risk]] — dead coin Pumpfun dengan creator ≠ minter wallet (status: current)
+- [[Solana Memecoin Taxonomy]] — 6 kategori memecoin "no-go" untuk SOL-sided DLMM (status: current)
+- [[Basecamp Mention Agent]] — autonomous agent polling Basecamp setiap 30s + dispatch Claude Code (status: current)
+- [[Compound Engineering Loop]] — Brainstorm → Plan → Work → Review → Compound → PR autonomous workflow (status: current)
+- [[Claude Code Headless Agent]] — pola headless claude -p tanpa interactive approval (status: current)
+- [[systemd User Timer Agent]] — trigger mekanisme untuk autonomous agent via systemd (status: current)
 
 ---
 
@@ -149,6 +159,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[LP Army]] — komunitas bootcamp liquidity provision di Meteora, Solana (status: current)
 - [[Meridian Agent]] — autonomous DLMM liquidity agent, 490+ GitHub stars (status: current)
 - [[meridian-agent-vps]] — running instance VPS: 354 closed positions, spot strategy (status: current)
+- [[@EvilPanda]] — praktisi DLMM Solana, creator 8 heuristik token screening (status: current)
+- [[aidyasadhakim]] — developer, blueprint Software Factory Agent (Basecamp + Claude Code) (status: current)
 
 ---
 
@@ -174,6 +186,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[lp-army-bootcamp-meteora]] — 2026-07-03 | NotebookLM | Meteora LP Army Bootcamp (25 sources)
 - [[meridian-agent-architecture]] — 2026-07-03 | VPS | Full Meridian agent codebase (14 source files, ~16K LOC)
 - [[DLMM-Bot-Lessons-Tweet]] — 2026-07-03 | Tweet | Token screening lessons: exit liquidity risk + volatility execution gap
+- [[DLMM-Coin-Screening-EvilPanda]] — 2026-07-10 | X/Twitter | @EvilPanda 8 heuristik screening koin DLMM
+- [[Basecamp-Mention-Agent]] — 2026-07-10 | GitHub Gist | aidityasadhakim | Basecamp + Claude Code autonomous agent
 - [[vienna-convention-consular-relations]] — 2026-07-05 | Wikipedia | Article 5 service catalogue (1963 treaty)
 - [[estonia-e-residency]] — 2026-07-05 | Wikipedia | PKI smart-card sovereign identity (2014)
 - [[singapore-ica-model]] — 2026-07-05 | Wikipedia | Integrated immigration/passport/NRIC agency

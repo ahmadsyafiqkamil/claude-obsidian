@@ -27,6 +27,15 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 
 ---
 
+## Pesantren Fintech (RGBI 2026 — Wasila)
+
+- [[RGBI Wasila Research Design]] — RQ1-RQ3 sekuensial, mixed-methods, UTAUT + modal sosial (status: developing)
+- [[Supplier Trust Score]] — skor kredit alternatif dari data transaksi bilateral (status: developing)
+- [[Pesantren Economic Ecosystem]] — sintesis 2 Policy Paper BRIN, masalah struktural unit usaha pesantren (status: developing)
+- [[Freemium Cross-Subsidy Pricing Model]] — pondok besar & bank menyubsidi pondok kecil & supplier (status: developing)
+- [[Portes Deference Critique]] — genuine trust vs deference (Portes, 1998) (status: developing)
+- [[Two-Sided Embedded Survey Design]] — kuesioner dua-sisi baseline-endline tertanam di Wasila (status: developing)
+
 ## Knowledge Management
 
 - [[LLM Wiki Pattern]] — the core architecture for persistent, compounding knowledge bases

@@ -7,6 +7,8 @@ tags:
   - index
 status: evergreen
 related:
+  - "[[RGBI Wasila Research Design]]"
+  - "[[Wasila]]"
   - "[[overview]]"
   - "[[log]]"
   - "[[hot]]"
@@ -27,7 +29,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-10 | Total pages: ~179 | Sources ingested: 33
+Last updated: 2026-07-10 | Total pages: ~195 | Sources ingested: 40
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -35,6 +37,12 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Concepts
 
+- [[RGBI Wasila Research Design]] — desain riset RGBI 2026 Topik 7, RQ1-RQ3 sekuensial, mixed-methods (status: developing)
+- [[Supplier Trust Score]] — skor kredit alternatif dari transaksi bilateral pesantren-supplier via Wasila (status: developing)
+- [[Pesantren Economic Ecosystem]] — sintesis 2 Policy Paper BRIN tentang unit usaha & inklusi keuangan pesantren (status: developing)
+- [[Freemium Cross-Subsidy Pricing Model]] — pondok besar & bank menyubsidi pondok kecil & supplier gratis (status: developing)
+- [[Portes Deference Critique]] — genuine trust vs deference/kepatuhan dangkal (Portes, 1998) (status: developing)
+- [[Two-Sided Embedded Survey Design]] — kuesioner baseline-endline dua-sisi tertanam di platform Wasila (status: developing)
 - [[LLM Wiki Pattern]] — the pattern for building persistent, compounding knowledge bases using LLMs (status: mature)
 - [[Hot Cache]] — ~500-word session context file, updated after every ingest and session (status: mature)
 - [[Compounding Knowledge]] — why wiki knowledge grows more valuable over time, unlike RAG (status: mature)
@@ -135,6 +143,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Entities
 
+- [[Wasila]] — platform digital financial-identity ekosistem pesantren; instrumen riset RGBI 2026 (status: developing)
+- [[Badan Riset dan Inovasi Nasional (BRIN)]] — lembaga riset pemerintah; penerbit 2 Policy Paper ekonomi pesantren (status: current)
 - [[Andrej Karpathy]] — AI researcher, creator of the LLM Wiki pattern, former Tesla AI director (status: developing)
 - [[Dicoding Indonesia]] — platform belajar online teknologi Indonesia; sumber kursus Belajar Fundamental Deep Learning (status: current)
 - [[Ar9av-obsidian-wiki]] — multi-agent compatible LLM Wiki plugin; delta tracking manifest (status: current)
@@ -166,6 +176,13 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Sources
 
+- [[wasila-roi-pricing-model]] — 2026-07-10 | KONTEKS transfer doc | ROI & 4 skenario pricing Wasila v2
+- [[interview-guide-rgbi-2026]] — 2026-07-10 | RGBI 2026 | 3 interview guide A/B/C + coding framework
+- [[kuesioner-rgbi-2026]] — 2026-07-10 | RGBI 2026 | Kuesioner A/B 107 item + matriks operasionalisasi
+- [[inventaris-kebutuhan-penelitian-rgbi-2026]] — 2026-07-10 | RGBI 2026 | 38 item kebutuhan riset, 6 kategori
+- [[policy-paper-pesantren-2023]] — 2026-07-10 | BRIN 2023 | Pemberdayaan ekonomi unit usaha pesantren (776 pesantren)
+- [[policy-paper-pesantren-2024]] — 2026-07-10 | BRIN 2024 | Eksistensi lembaga ekonomi pondok pesantren
+- [[prediabeat-riim-proposal-template]] — 2026-07-10 | BRIN RIIM | Template struktur proposal (isi: PrediaBeat, bukan Wasila)
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
 - [[pengantar-deep-learning]] — 2026-06-28 | Dicoding Indonesia | sejarah & definisi deep learning
 - [[arsitektur-deep-learning]] — 2026-06-28 | Dicoding Indonesia | 7 jenis layer arsitektur DL

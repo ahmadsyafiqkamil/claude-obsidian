@@ -20,6 +20,18 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-10] ingest | RGBI 2026 Wasila (Ekonomi Syariah, Pesantren Fintech)
+
+- Sources: 7 documents dari imported knowledge project "RGBI" (proposal Wasila context, interview guide, kuesioner, inventaris kebutuhan, 2 policy paper BRIN, 1 template proposal RIIM)
+- Source pages (7): [[wasila-roi-pricing-model]], [[interview-guide-rgbi-2026]], [[kuesioner-rgbi-2026]], [[inventaris-kebutuhan-penelitian-rgbi-2026]], [[policy-paper-pesantren-2023]], [[policy-paper-pesantren-2024]], [[prediabeat-riim-proposal-template]]
+- Entity pages (2 new): [[Wasila]], [[Badan Riset dan Inovasi Nasional (BRIN)]]
+- Entity updated (1): [[Ahmad Syafiq Kamil]] — ditambah role Ketua Riset RGBI Wasila 2026 + co-authorship 2 policy paper BRIN
+- Concept pages (6): [[RGBI Wasila Research Design]], [[Supplier Trust Score]], [[Pesantren Economic Ecosystem]], [[Freemium Cross-Subsidy Pricing Model]], [[Portes Deference Critique]], [[Two-Sided Embedded Survey Design]]
+- Pages updated: [[index]], [[concepts/_index]], [[entities/_index]], [[sources/_index]], [[hot]]
+- Note: `prediabeat-riim-proposal-template` mendokumentasikan bahwa file sumber "Proposal RIIM Wasila.docx.md" salah nama — isinya proposal PrediaBeat (BRIN, Dr. Kokoy Siti Komariah), dipakai sebagai referensi format struktur proposal RIIM, bukan konten Wasila.
+- DragonScale addressing & wiki-lock: **di-skip secara sadar**. Ingest ini dijalankan lewat MCP `obsidian-multivault` (read/write/search note saja) tanpa akses Bash langsung ke file vault, sehingga `scripts/allocate-address.sh` dan `scripts/wiki-lock.sh` tidak bisa dipanggil. Halaman baru tidak memiliki frontmatter `address:`.
+- Key insight: domain riset baru sepenuhnya (ekonomi syariah, fintech pesantren) — pencarian "pesantren"/"Wasila"/"BRIN" di vault sebelum ingest nihil hasil, jadi tidak ada halaman existing yang perlu diupdate untuk cross-reference maupun ditemukan kontradiksi. Total vault: ~195 halaman, 40 sources.
+
 ## [2026-07-10] ingest | DLMM Coin Screening (EvilPanda) + Software Factory Agent
 
 - Sources: 2 (X/Twitter thread + GitHub Gist)

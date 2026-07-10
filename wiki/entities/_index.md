@@ -35,6 +35,13 @@ All entity pages — people, organizations, products, and tools.
 ## Organizations
 
 - [[Dicoding Indonesia]] — platform belajar online teknologi Indonesia; sumber kursus Belajar Fundamental Deep Learning
+- [[Badan Riset dan Inovasi Nasional (BRIN)]] — lembaga riset pemerintah Indonesia; penerbit 2 Policy Paper ekonomi pesantren
+
+---
+
+## Products & Tools (Pesantren Fintech)
+
+- [[Wasila]] — platform digital financial-identity ekosistem pesantren (research instrument, RGBI 2026)
 
 ---
 

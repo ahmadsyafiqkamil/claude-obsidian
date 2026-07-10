@@ -28,6 +28,16 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 
 ---
 
+## RGBI 2026 — Wasila (Ekonomi Syariah)
+
+- [[wasila-roi-pricing-model]] — 2026-07-10 | KONTEKS transfer doc | ROI & 4 skenario pricing Wasila v2
+- [[interview-guide-rgbi-2026]] — 2026-07-10 | RGBI 2026 | 3 interview guide A/B/C + coding framework thematic analysis
+- [[kuesioner-rgbi-2026]] — 2026-07-10 | RGBI 2026 | Kuesioner A/B 107 item + matriks operasionalisasi 15 konstruk
+- [[inventaris-kebutuhan-penelitian-rgbi-2026]] — 2026-07-10 | RGBI 2026 | 38 item kebutuhan riset, 6 kategori
+- [[policy-paper-pesantren-2023]] — 2026-07-10 | BRIN 2023 | Pemberdayaan ekonomi unit usaha pesantren (776 pesantren)
+- [[policy-paper-pesantren-2024]] — 2026-07-10 | BRIN 2024 | Eksistensi lembaga ekonomi pondok pesantren
+- [[prediabeat-riim-proposal-template]] — 2026-07-10 | BRIN RIIM | Template struktur proposal (isi aktual: PrediaBeat)
+
 ## GitHub Repos
 
 - [[absensi-sistem-kehadiran]] — 2026-06-29 | Ahmad Syafiq Kamil | Next.js + Django HR system for KJRI

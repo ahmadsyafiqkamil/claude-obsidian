@@ -10,6 +10,7 @@ tags:
   - ai-ml
   - government-tech
   - blockchain
+  - islamic-finance
 status: evergreen
 related:
   - "[[cv-variants-ahmad-syafiq]]"
@@ -19,6 +20,11 @@ related:
   - "[[pemilu-dapps-voting]]"
   - "[[chatbot-kjri-dubai]]"
   - "[[protkons-consular-management]]"
+  - "[[Wasila]]"
+  - "[[RGBI Wasila Research Design]]"
+  - "[[policy-paper-pesantren-2023]]"
+  - "[[policy-paper-pesantren-2024]]"
+  - "[[Badan Riset dan Inovasi Nasional]]"
 source: "[[cv-variants-ahmad-syafiq]]"
 ---
 
@@ -58,7 +64,10 @@ Key deliverables:
 - ISO 27001 compliance: RBAC, AES-256 encryption, audit logging di semua aplikasi
 
 ### BRIN (2022–2025)
-Research Engineer untuk national policy research. 10+ KAK/TOR authored. Data pipelines, analisis kebijakan, scraping tools.
+Research Engineer untuk national policy research. 10+ KAK/TOR authored. Data pipelines, analisis kebijakan, scraping tools. Tim penulis dan editor dua Policy Paper tentang ekonomi pesantren: [[policy-paper-pesantren-2023]] dan [[policy-paper-pesantren-2024]] (Direktorat Kebijakan Ekonomi, Ketenagakerjaan, dan Pengembangan Regional, [[Badan Riset dan Inovasi Nasional]]).
+
+### RGBI 2026 — Ketua Riset Wasila (2026, ongoing)
+Memimpin tim riset untuk Research Grant Bank Indonesia 2026, Topik 7 (Ekonomi Syariah): digitalisasi rekam jejak transaksi ekosistem pesantren via platform [[Wasila]] sebagai instrumen pembentukan financial identity supplier lokal. Lihat [[RGBI Wasila Research Design]] untuk desain riset lengkap (RQ1-RQ3, mixed-methods, [[Supplier Trust Score]]). Proposal ini melanjutkan langsung basis data dan temuan dari dua policy paper BRIN yang ia tulis sebelumnya (776 pesantren sebagai sampling frame).
 
 ---
 

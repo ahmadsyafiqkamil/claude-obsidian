@@ -10,6 +10,7 @@ tags:
 status: current
 sources:
   - "[[meridian-agent-architecture]]"
+  - "[[meridian-momentum-screening-bravonoid]]"
 related:
   - "[[Momentum-Based Token Screening Pattern]]"
   - "[[Momentum-to-Bins Scaling]]"

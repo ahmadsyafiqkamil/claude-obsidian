@@ -71,6 +71,9 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 
 - [[DLMM-Bot-Lessons-Tweet]] — 2026-07-03 | Tweet | Token screening lessons: exit liquidity risk + volatility execution gap
 - [[DLMM-Coin-Screening-EvilPanda]] — 2026-07-10 | X/Twitter | @EvilPanda 8 heuristik screening koin DLMM (GMGN metrics, CTO, vampire, virus clusters)
+- [[meridian-momentum-screening-bravonoid]] — 2026-07-12 | X/Twitter | Bravonoid | Momentum screening dengan price change %, dynamic re-entry cooldown
+- [[meridian-bins-range-bravonoid]] — 2026-07-12 | X/Twitter | Bravonoid | Bins range determination dari momentum classification
+- [[evil-panda-exit-case-study]] — 2026-07-12 | X/Twitter | @EvilPanda | Real case study: Evil Panda Strat sebagai exit liquidity provider terakhir
 
 ## CV / Personal
 

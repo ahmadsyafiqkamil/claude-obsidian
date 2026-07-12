@@ -18,6 +18,7 @@ related:
   - "[[Gas Reserve Pattern]]"
   - "[[Bundler Detection]]"
   - "[[Meteora DLMM]]"
+  - "[[evil-panda-exit-case-study]]"
 ---
 
 # Exit Liquidity Risk

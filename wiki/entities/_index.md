@@ -27,6 +27,7 @@ All entity pages — people, organizations, products, and tools.
 ## People
 
 - [[Andrej Karpathy]] — AI researcher, educator; originated the LLM Wiki pattern
+- [[Bravonoid]] — @dikibagast, praktisi dan builder strategy Meridian agent (momentum screening, dynamic cooldown, momentum-to-bins scaling)
 - [[@EvilPanda]] — praktisi DLMM Solana, creator 8-heuristik token screening untuk SOL-sided positions
 - [[aidyasadhakim]] — developer, blueprint Software Factory Agent (Basecamp + Claude Code autonomous engineering)
 
